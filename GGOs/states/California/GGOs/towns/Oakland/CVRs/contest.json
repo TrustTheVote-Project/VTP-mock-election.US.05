@@ -1,18 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0056/385d9e2851",
+        "cast_branch": "CVRs/0055/29f9a096ad",
         "choices": [
             true,
             false
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "Question 2 - new firehouse land purchase",
+        "name": "Question 1 - school budget override",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0056",
-        "win-by": "2/3"
+        "uid": "0055"
     }
 }
