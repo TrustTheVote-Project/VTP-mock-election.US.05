@@ -1,28 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/fd843c1d01",
+        "cast_branch": "CVRs/0002/3889f65b58",
         "choices": [
             {
-                "name": "Aayla Secura",
+                "name": "Jan Dodonna",
                 "party": "Circle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "Beru Whitesun Lars",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
             }
         ],
         "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "max": 1,
+        "name": "governor",
         "selection": [
-            1,
-            0,
-            2
+            1
         ],
-        "tally": "rcv",
-        "uid": "0001"
+        "tally": "plurality",
+        "uid": "0002"
     }
 }
