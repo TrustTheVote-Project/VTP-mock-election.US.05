@@ -1,1 +1,18 @@
-0mk9a3HNqNJEff9fhNbNrGtoKqkTgducxyntQzxmnF7FRMr7nKC9bDl8gA/25g04
+{
+    "CVR": {
+        "cast_branch": "CVRs/0003/b04270f3a7",
+        "choices": [
+            "Roger Rabbit",
+            "Huckleberry Finn",
+            "Captain Kirk"
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "max": 1,
+        "name": "County Clerk",
+        "selection": [
+            "0: Roger Rabbit"
+        ],
+        "tally": "plurality",
+        "uid": "0003"
+    }
+}
