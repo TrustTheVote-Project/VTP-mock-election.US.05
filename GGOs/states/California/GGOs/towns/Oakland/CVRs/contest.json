@@ -1,1 +1,23 @@
-L+5sIfKFzuI+cS0xxeRUGtZoKV/Ay9aE+aBv3/2sQqEPblrqoMdD0qtqrZFlamje
+{
+    "CVR": {
+        "cast_branch": "CVRs/0002/9f8cd481b2",
+        "choices": [
+            {
+                "name": "Jan Dodonna",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Beru Whitesun Lars",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "governor",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0002"
+    }
+}
