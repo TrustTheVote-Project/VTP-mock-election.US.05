@@ -1,23 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/dff8a7a495",
+        "cast_branch": "CVRs/0005/3b3d96f8f6",
         "choices": [
             {
-                "name": "Yoda",
+                "name": "Hey There",
                 "party": "Circle Party"
             },
             {
-                "name": "Anakin Skywalker",
+                "name": "Ta Da",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "So Ho",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "US president",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
+        "name": "Park Administrator",
         "selection": [
-            0
+            0,
+            1,
+            2
         ],
-        "tally": "plurality",
-        "uid": "0000"
+        "tally": "rcv",
+        "uid": "0005"
     }
 }
