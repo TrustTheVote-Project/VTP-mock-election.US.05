@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0014/46bbeda627",
+        "cast_branch": "CVRs/0014/9c87e2cc97",
         "choices": [
             {
                 "name": "3 4",
@@ -18,9 +18,9 @@
         "ggo": "GGOs/states/California/GGOs/towns/Alameda",
         "name": "alderman ward 1",
         "selection": [
-            0,
+            2,
             1,
-            2
+            0
         ],
         "tally": "rcv",
         "uid": "0014"
