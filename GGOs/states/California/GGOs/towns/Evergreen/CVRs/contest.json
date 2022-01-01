@@ -1,1 +1,24 @@
-tzGZymSzWikgpPO5qwM4LRXRSCLtWBKs9vHc8e8Vr7NUZ2aQCHvlS3IUK+/40ReR
+{
+    "CVR": {
+        "cast_branch": "CVRs/0035/674c86b0b9",
+        "choices": [
+            {
+                "name": "31 32",
+                "party": "Circle Party"
+            },
+            {
+                "name": "33 34",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
+        "max": 1,
+        "name": "state representative",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0035",
+        "write-in": true
+    }
+}
