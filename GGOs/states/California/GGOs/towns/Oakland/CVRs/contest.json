@@ -1,23 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/db5137d1c1",
+        "cast_branch": "CVRs/0064/dd5cc6d1a3",
         "choices": [
-            {
-                "name": "Jan Dodonna",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Beru Whitesun Lars",
-                "party": "Triangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
         "max": 1,
-        "name": "governor",
+        "name": "Question 2 - paint watertower green",
         "selection": [
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0002"
+        "uid": "0064"
     }
 }
