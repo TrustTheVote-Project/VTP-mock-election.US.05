@@ -1,1 +1,23 @@
-3bd3w6A5Q9mWEaYvxVKGLW44wjjt9iUeWDjwiafdZqxZa1upQ7Vujd8HSdeJGPds
+{
+    "CVR": {
+        "cast_branch": "CVRs/0052/f7c3cdc32a",
+        "choices": [
+            {
+                "name": "C C",
+                "party": "Circle Party"
+            },
+            {
+                "name": "D D",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 1,
+        "name": "state senate",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0052"
+    }
+}
