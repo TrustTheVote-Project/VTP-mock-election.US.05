@@ -1,25 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0011/52d24ff6a5",
+        "cast_branch": "CVRs/0015/d3ef524eb0",
         "choices": [
             {
-                "name": "Fifteen Sixteen",
-                "party": "Circle Party"
+                "name": "9 10",
+                "party": "Rectangle Party"
             },
             {
-                "name": "Seventeen Eighteen",
+                "name": "11 12",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "13 14",
+                "party": "Circle Party"
             }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 2,
-        "name": "state representative",
+        "name": "alderman ward 2",
         "selection": [
+            1,
             0,
-            1
+            2
         ],
-        "tally": "plurality",
-        "uid": "0011",
-        "write-in": true
+        "tally": "rcv",
+        "uid": "0015"
     }
 }
