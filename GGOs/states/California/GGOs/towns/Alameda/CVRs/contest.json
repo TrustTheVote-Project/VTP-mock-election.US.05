@@ -1,23 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/4f014d04d7",
+        "cast_branch": "CVRs/0002/66caef331d",
         "choices": [
             {
-                "name": "Yoda",
+                "name": "Jan Dodonna",
                 "party": "Circle Party"
             },
             {
-                "name": "Anakin Skywalker",
+                "name": "Beru Whitesun Lars",
                 "party": "Triangle Party"
             }
         ],
         "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "US president",
+        "name": "governor",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0000"
+        "uid": "0002"
     }
 }
