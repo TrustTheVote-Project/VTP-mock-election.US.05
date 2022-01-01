@@ -1,1 +1,17 @@
-BR5zofgZ90/3A09/w7Sj2qapvJPeIKWg641j6WFmYLJDXQnp+6jI8FmzlNVAha4c
+{
+    "CVR": {
+        "cast_branch": "CVRs/0060/a5de7f6564",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "max": 1,
+        "name": "Question 1 - paint firehydrants red",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0060"
+    }
+}
