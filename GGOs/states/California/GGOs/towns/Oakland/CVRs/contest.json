@@ -1,23 +1,26 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0054/a02b75b5c5",
+        "cast_branch": "CVRs/0059/dc15ed3701",
         "choices": [
-            "asd asd",
-            "qwe qwe",
-            "ert ert",
-            "rty rty",
-            "fgh fgh",
-            "tyu tyu"
+            {
+                "name": "Q One Two",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "W Two Three",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "e Foo Four",
+                "party": "Circle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
-        "max": 3,
-        "name": "school board",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "name": "alderman ward 2",
         "selection": [
-            4,
-            0,
-            5
+            "0: Q One Two"
         ],
-        "tally": "plurality",
-        "uid": "0054"
+        "tally": "rcv",
+        "uid": "0059"
     }
 }
