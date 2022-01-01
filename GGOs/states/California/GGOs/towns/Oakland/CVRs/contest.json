@@ -1,17 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0055/75b671682f",
+        "cast_branch": "CVRs/0002/08c0dd844e",
         "choices": [
-            true,
-            false
+            {
+                "name": "Jan Dodonna",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Beru Whitesun Lars",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "Question 1 - school budget override",
+        "name": "governor",
         "selection": [
             0
         ],
         "tally": "plurality",
-        "uid": "0055"
+        "uid": "0002"
     }
 }
