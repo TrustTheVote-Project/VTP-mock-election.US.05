@@ -1,23 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0008/c221a6731c",
+        "cast_branch": "CVRs/0015/8f04a10a2d",
         "choices": [
             {
-                "name": "Hans Solo",
+                "name": "9 10",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "11 12",
                 "party": "Triangle Party"
             },
             {
-                "name": "Leia Organa",
-                "party": "Rectangle Party"
+                "name": "13 14",
+                "party": "Circle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
-        "max": 1,
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "alderman ward 2",
         "selection": [
-            1
+            2,
+            1,
+            0
         ],
-        "tally": "plurality",
-        "uid": "0008"
+        "tally": "rcv",
+        "uid": "0015"
     }
 }
