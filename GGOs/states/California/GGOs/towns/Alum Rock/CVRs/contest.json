@@ -1,23 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/421b93b342",
+        "cast_branch": "CVRs/0026/a8f537dcbc",
         "choices": [
-            {
-                "name": "Yoda",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Anakin Skywalker",
-                "party": "Triangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
         "max": 1,
-        "name": "US president",
+        "name": "Question 2 - hire a sustainability person",
         "selection": [
             0
         ],
         "tally": "plurality",
-        "uid": "0000"
+        "uid": "0026",
+        "win-by": "1/2"
     }
 }
