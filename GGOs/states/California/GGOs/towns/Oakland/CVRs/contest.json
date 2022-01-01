@@ -1,17 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0055/c5dd2b0998",
+        "cast_branch": "CVRs/0001/7187859ca6",
         "choices": [
-            true,
-            false
+            {
+                "name": "Aayla Secura",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Dok-Ondar",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Mace Windu",
+                "party": "Pentagon Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
-        "max": 1,
-        "name": "Question 1 - school budget override",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
+            0,
+            2,
             1
         ],
-        "tally": "plurality",
-        "uid": "0055"
+        "tally": "rcv",
+        "uid": "0001"
     }
 }
