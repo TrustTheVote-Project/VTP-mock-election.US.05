@@ -1,1 +1,36 @@
-of2QFCL4+/SsfbVZyVy7XuDc6NJL+Knc+5yJU8d/3Sy82xnPMuzvpHz1A5erVsSH
+{
+    "CVR": {
+        "cast_branch": "CVRs/0012/a9076948f1",
+        "choices": [
+            {
+                "name": "Nineteen Twenty",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Twentyone Twentytwo",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Twentythree Twentyfour",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Twentyfive",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "Twentysix",
+                "party": "Rectangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 2,
+        "name": "state senate",
+        "selection": [
+            0,
+            3
+        ],
+        "tally": "plurality",
+        "uid": "0012"
+    }
+}
