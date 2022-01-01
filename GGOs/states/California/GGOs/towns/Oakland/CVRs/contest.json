@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0057/ba4163fe92",
+        "cast_branch": "CVRs/0001/247b8cc1da",
         "choices": [
             {
-                "name": "QQ One",
-                "party": "Rectangle Party"
+                "name": "Aayla Secura",
+                "party": "Circle Party"
             },
             {
-                "name": "WW Two",
-                "party": "Rectangle Party"
+                "name": "Dok-Ondar",
+                "party": "Triangle Party"
             },
             {
-                "name": "ee Foo",
-                "party": "Rectangle Party"
+                "name": "Mace Windu",
+                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 1",
-        "name": "alderman ward 1",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
             0,
-            1,
-            2
+            2,
+            1
         ],
         "tally": "rcv",
-        "uid": "0057"
+        "uid": "0001"
     }
 }
