@@ -1,23 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0052/35f34c672c",
+        "cast_branch": "CVRs/0059/d16dc27e40",
         "choices": [
             {
-                "name": "C C",
-                "party": "Circle Party"
+                "name": "Q One Two",
+                "party": "Rectangle Party"
             },
             {
-                "name": "D D",
+                "name": "W Two Three",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "e Foo Four",
+                "party": "Circle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
-        "max": 1,
-        "name": "state senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "name": "alderman ward 2",
         "selection": [
-            0
+            0,
+            2,
+            1
         ],
-        "tally": "plurality",
-        "uid": "0052"
+        "tally": "rcv",
+        "uid": "0059"
     }
 }
