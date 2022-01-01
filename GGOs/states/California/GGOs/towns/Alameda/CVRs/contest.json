@@ -1,28 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0009/8932c2c448",
+        "cast_branch": "CVRs/0018/835daf71fd",
         "choices": [
-            {
-                "name": "Nien Nunb",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Chelli Lona Aphra",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Hondo Ohnaka",
-                "party": "Rectangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
-        "max": 2,
-        "name": "Park Administrator",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 1,
+        "name": "Question 2 - new firehouse land purchase",
         "selection": [
-            2,
             1
         ],
         "tally": "plurality",
-        "uid": "0009"
+        "uid": "0018",
+        "win-by": "2/3"
     }
 }
