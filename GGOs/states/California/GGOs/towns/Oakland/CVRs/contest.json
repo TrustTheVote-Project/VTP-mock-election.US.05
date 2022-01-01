@@ -1,28 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/9dec0bb2b8",
+        "cast_branch": "CVRs/0003/dee463acb8",
         "choices": [
-            {
-                "name": "Aayla Secura",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Dok-Ondar",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
-            }
+            "Roger Rabbit",
+            "Huckleberry Finn",
+            "Captain Kirk"
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "max": 1,
+        "name": "County Clerk",
         "selection": [
-            1,
-            2,
             0
         ],
-        "tally": "rcv",
-        "uid": "0001"
+        "tally": "plurality",
+        "uid": "0003"
     }
 }
