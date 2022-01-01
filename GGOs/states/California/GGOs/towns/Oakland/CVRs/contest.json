@@ -1,1 +1,18 @@
-j4fDCqe/mme9EhUIfa0hnnRam5PL7kF5vvitsiajLMP2H13dDzxSsJtDUJa3no2B
+{
+    "CVR": {
+        "cast_branch": "CVRs/0061/b2fdea9425",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "max": 1,
+        "name": "Question 2 - paint water tower red",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0061",
+        "win-by": "2/3"
+    }
+}
