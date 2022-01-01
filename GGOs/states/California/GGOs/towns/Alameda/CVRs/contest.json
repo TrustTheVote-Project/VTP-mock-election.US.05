@@ -1,36 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0012/da2e6dbe27",
+        "cast_branch": "CVRs/0002/eaf1fc6de0",
         "choices": [
             {
-                "name": "Nineteen Twenty",
+                "name": "Jan Dodonna",
                 "party": "Circle Party"
             },
             {
-                "name": "Twentyone Twentytwo",
+                "name": "Beru Whitesun Lars",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Twentythree Twentyfour",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Twentyfive",
-                "party": "Pentagon Party"
-            },
-            {
-                "name": "Twentysix",
-                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 2,
-        "name": "state senate",
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "governor",
         "selection": [
-            0,
-            3
+            1
         ],
         "tally": "plurality",
-        "uid": "0012"
+        "uid": "0002"
     }
 }
