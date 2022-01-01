@@ -1,36 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0012/3cc683d0cd",
+        "cast_branch": "CVRs/0001/332c3a1534",
         "choices": [
             {
-                "name": "Nineteen Twenty",
+                "name": "Aayla Secura",
                 "party": "Circle Party"
             },
             {
-                "name": "Twentyone Twentytwo",
+                "name": "Dok-Ondar",
                 "party": "Triangle Party"
             },
             {
-                "name": "Twentythree Twentyfour",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Twentyfive",
+                "name": "Mace Windu",
                 "party": "Pentagon Party"
-            },
-            {
-                "name": "Twentysix",
-                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 2,
-        "name": "state senate",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
+            0,
             1,
-            0
+            2
         ],
-        "tally": "plurality",
-        "uid": "0012"
+        "tally": "rcv",
+        "uid": "0001"
     }
 }
