@@ -1,23 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0054/a5b42c06aa",
+        "cast_branch": "CVRs/0052/d50e8c140a",
         "choices": [
-            "asd asd",
-            "qwe qwe",
-            "ert ert",
-            "rty rty",
-            "fgh fgh",
-            "tyu tyu"
+            {
+                "name": "C C",
+                "party": "Circle Party"
+            },
+            {
+                "name": "D D",
+                "party": "Triangle Party"
+            }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Oakland",
-        "max": 3,
-        "name": "school board",
+        "max": 1,
+        "name": "state senate",
         "selection": [
-            3,
-            2,
             0
         ],
         "tally": "plurality",
-        "uid": "0054"
+        "uid": "0052"
     }
 }
