@@ -1,28 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0057/ba4163fe92",
+        "cast_branch": "CVRs/0060/3f2ca0a847",
         "choices": [
-            {
-                "name": "QQ One",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "WW Two",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "ee Foo",
-                "party": "Rectangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 1",
-        "name": "alderman ward 1",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "max": 1,
+        "name": "Question 1 - paint firehydrants red",
         "selection": [
-            0,
-            1,
-            2
+            "0: yes"
         ],
-        "tally": "rcv",
-        "uid": "0057"
+        "tally": "plurality",
+        "uid": "0060"
     }
 }
