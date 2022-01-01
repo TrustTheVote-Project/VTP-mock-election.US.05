@@ -1,23 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0008/edd12c0cd7",
+        "cast_branch": "CVRs/0001/08d1c96fa2",
         "choices": [
             {
-                "name": "Hans Solo",
+                "name": "Aayla Secura",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Dok-Ondar",
                 "party": "Triangle Party"
             },
             {
-                "name": "Leia Organa",
-                "party": "Rectangle Party"
+                "name": "Mace Windu",
+                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
-        "max": 1,
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
-            0
+            1,
+            0,
+            2
         ],
-        "tally": "plurality",
-        "uid": "0008"
+        "tally": "rcv",
+        "uid": "0001"
     }
 }
