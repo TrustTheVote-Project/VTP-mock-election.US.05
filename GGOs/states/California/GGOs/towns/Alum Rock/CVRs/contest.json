@@ -1,1 +1,23 @@
-Duh5mMsY+ukAGbrMTozAObRPdv09Rdx7fFqP1iVLaXXIzhMqZsPt4qYadWQRqZGV
+{
+    "CVR": {
+        "cast_branch": "CVRs/0020/c5fe0ed992",
+        "choices": [
+            {
+                "name": "75 76",
+                "party": "Circle Party"
+            },
+            {
+                "name": "77 78",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "state senate",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0020"
+    }
+}
