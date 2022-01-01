@@ -1,23 +1,25 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/0b76e9fba4",
+        "cast_branch": "CVRs/0011/b43c0308bb",
         "choices": [
             {
-                "name": "Yoda",
+                "name": "Fifteen Sixteen",
                 "party": "Circle Party"
             },
             {
-                "name": "Anakin Skywalker",
+                "name": "Seventeen Eighteen",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "US president",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 2,
+        "name": "state representative",
         "selection": [
+            0,
             1
         ],
         "tally": "plurality",
-        "uid": "0000"
+        "uid": "0011",
+        "write-in": true
     }
 }
