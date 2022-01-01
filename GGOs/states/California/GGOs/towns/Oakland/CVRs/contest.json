@@ -1,28 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0057/2d5f4fbd1a",
+        "cast_branch": "CVRs/0055/1d4883cd62",
         "choices": [
-            {
-                "name": "QQ One",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "WW Two",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "ee Foo",
-                "party": "Rectangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 1",
-        "name": "alderman ward 1",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 1,
+        "name": "Question 1 - school budget override",
         "selection": [
-            2,
-            0,
-            1
+            0
         ],
-        "tally": "rcv",
-        "uid": "0057"
+        "tally": "plurality",
+        "uid": "0055"
     }
 }
