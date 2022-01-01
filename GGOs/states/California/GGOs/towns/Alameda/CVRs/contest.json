@@ -1,28 +1,38 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0004/df35a43430",
+        "cast_branch": "CVRs/0013/875a1d9dd1",
         "choices": [
             {
-                "name": "Jim Green",
+                "name": "Twentyseven",
                 "party": "Circle Party"
             },
             {
-                "name": "Mary Orange",
+                "name": "Twenty Eight",
                 "party": "Triangle Party"
             },
             {
-                "name": "Jane Brown",
+                "name": "Jane Doe",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "John Doe",
                 "party": "Rectangle Party"
+            },
+            {
+                "name": "1 2",
+                "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "mayor",
         "selection": [
-            0,
             2,
-            1
+            1,
+            0,
+            4,
+            3
         ],
         "tally": "rcv",
-        "uid": "0004"
+        "uid": "0013"
     }
 }
