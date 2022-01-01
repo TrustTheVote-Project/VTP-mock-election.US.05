@@ -1,18 +1,29 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/a974ae39f1",
+        "cast_branch": "CVRs/0031/5ab161cf96",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            {
+                "name": "Depa Billaba",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Five Six",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Seven Eight",
+                "party": "Rectangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
-        "max": 1,
-        "name": "County Clerk",
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "alderman ward 2",
         "selection": [
-            1
+            0,
+            1,
+            2
         ],
-        "tally": "plurality",
-        "uid": "0003"
+        "tally": "rcv",
+        "uid": "0031",
+        "write-in": true
     }
 }
