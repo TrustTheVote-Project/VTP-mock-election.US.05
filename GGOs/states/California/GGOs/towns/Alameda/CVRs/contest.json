@@ -1,23 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0008/76a9c4da91",
+        "cast_branch": "CVRs/0003/f1cc8b139e",
         "choices": [
-            {
-                "name": "Hans Solo",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Leia Organa",
-                "party": "Rectangle Party"
-            }
+            "Roger Rabbit",
+            "Huckleberry Finn",
+            "Captain Kirk"
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
         "max": 1,
-        "name": "Park Ranger",
+        "name": "County Clerk",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0008"
+        "uid": "0003"
     }
 }
