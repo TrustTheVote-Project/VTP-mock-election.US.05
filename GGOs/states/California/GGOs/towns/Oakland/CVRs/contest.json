@@ -1,1 +1,23 @@
-N2NtAmUiJdxSlN7rFgJckJzug/LZ5rdN7OSG76JUjcLlXl8Wtj0edquG4xCmF5iR
+{
+    "CVR": {
+        "cast_branch": "CVRs/0051/aa5d92a8f6",
+        "choices": [
+            {
+                "name": "A A",
+                "party": "Circle Party"
+            },
+            {
+                "name": "B B",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 1,
+        "name": "state representative",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0051"
+    }
+}
