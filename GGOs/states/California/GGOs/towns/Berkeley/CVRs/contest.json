@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/b6a0961727",
+        "cast_branch": "CVRs/0006/e480dce5fd",
         "choices": [
             {
                 "name": "dog",
@@ -22,10 +22,10 @@
         "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
         "name": "Park Ranger",
         "selection": [
-            3,
+            0,
             2,
             1,
-            0
+            3
         ],
         "tally": "rcv",
         "uid": "0006"
