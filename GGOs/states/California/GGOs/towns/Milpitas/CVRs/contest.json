@@ -1,28 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0009/4f3b9e4813",
+        "cast_branch": "CVRs/0002/c8c14a4827",
         "choices": [
             {
-                "name": "Nien Nunb",
+                "name": "Jan Dodonna",
                 "party": "Circle Party"
             },
             {
-                "name": "Chelli Lona Aphra",
+                "name": "Beru Whitesun Lars",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Hondo Ohnaka",
-                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
-        "max": 2,
-        "name": "Park Administrator",
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "governor",
         "selection": [
-            2,
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0009"
+        "uid": "0002"
     }
 }
