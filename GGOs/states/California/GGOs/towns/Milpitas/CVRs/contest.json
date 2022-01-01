@@ -1,1 +1,23 @@
-osaYlH+ZHsc4ston6nPlWPUxMLQX5twjati0Djc9MnVmemUw41MitoFn+lGb64u0
+{
+    "CVR": {
+        "cast_branch": "CVRs/0043/7506c305b8",
+        "choices": [
+            {
+                "name": "Aaa Aaa",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Bbb Bbb",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "max": 1,
+        "name": "state representative",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0043"
+    }
+}
