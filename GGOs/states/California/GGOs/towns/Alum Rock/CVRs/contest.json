@@ -1,1 +1,27 @@
-tPDAIh9DzkbMMyoNhdKPCSSwJzUq1HV6RMPwQWFieyY2iOXleHaic2GQ+nw+Us/X
+{
+    "CVR": {
+        "cast_branch": "CVRs/0022/82422f68c3",
+        "choices": [
+            {
+                "name": "89 90",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "91 92",
+                "party": "Circle Party"
+            },
+            {
+                "name": "93 94",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "alderman ward 1",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0022"
+    }
+}
