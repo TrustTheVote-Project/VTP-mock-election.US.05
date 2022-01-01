@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0061/7103dff19f",
+        "cast_branch": "CVRs/0061/a7299ca6c1",
         "choices": [
             true,
             false
@@ -9,7 +9,7 @@
         "max": 1,
         "name": "Question 2 - paint water tower red",
         "selection": [
-            0
+            "0: yes"
         ],
         "tally": "plurality",
         "uid": "0061",
