@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/df89df7990",
+        "cast_branch": "CVRs/0047/a3afac8a82",
         "choices": [
             {
-                "name": "Aayla Secura",
+                "name": "Mmm Mmm",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Nnn Nnn",
                 "party": "Circle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "Ooo Ooo",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "name": "alderman ward 2",
         "selection": [
             2,
             1,
             0
         ],
         "tally": "rcv",
-        "uid": "0001"
+        "uid": "0047"
     }
 }
