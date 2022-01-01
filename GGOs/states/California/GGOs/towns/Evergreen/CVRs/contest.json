@@ -1,23 +1,29 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/aa6e8a2b95",
+        "cast_branch": "CVRs/0040/db883b49ea",
         "choices": [
             {
-                "name": "Jan Dodonna",
+                "name": "61 62",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "63 64",
                 "party": "Circle Party"
             },
             {
-                "name": "Beru Whitesun Lars",
+                "name": "65 66",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "governor",
+        "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
+        "name": "alderman ward 3",
         "selection": [
-            1
+            1,
+            2,
+            0
         ],
-        "tally": "plurality",
-        "uid": "0002"
+        "tally": "rcv",
+        "uid": "0040",
+        "write-in": true
     }
 }
