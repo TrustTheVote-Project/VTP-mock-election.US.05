@@ -1,33 +1,39 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/d64ebf82c9",
+        "cast_branch": "CVRs/0029/fc593b03b5",
         "choices": [
             {
-                "name": "dog",
+                "name": "Mon Mothma",
                 "party": "Circle Party"
             },
             {
-                "name": "cat",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "horse",
+                "name": "Wullf Yularen",
                 "party": "Triangle Party"
             },
             {
-                "name": "rat",
+                "name": "Plo Koon",
                 "party": "Pentagon Party"
+            },
+            {
+                "name": "Qui-Gon Jinn",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Trilla Suduri",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "mayor",
         "selection": [
-            0,
-            2,
             1,
+            0,
+            4,
+            2,
             3
         ],
         "tally": "rcv",
-        "uid": "0006"
+        "uid": "0029",
+        "write-in": true
     }
 }
