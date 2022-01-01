@@ -1,1 +1,28 @@
-d1phy4WXVm2RQY9AVznfiz+p7oLCWtvzeoJwsmlEswvNSzEz9VbBGuIyx8eBHZbU
+{
+    "CVR": {
+        "cast_branch": "CVRs/0001/3a5e7a9e6a",
+        "choices": [
+            {
+                "name": "Aayla Secura",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Dok-Ondar",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Mace Windu",
+                "party": "Pentagon Party"
+            }
+        ],
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
+        "selection": [
+            2,
+            0,
+            1
+        ],
+        "tally": "rcv",
+        "uid": "0001"
+    }
+}
