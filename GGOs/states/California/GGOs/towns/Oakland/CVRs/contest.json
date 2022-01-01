@@ -1,27 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0062/51e938f8a3",
+        "cast_branch": "CVRs/0002/9f5e9a60d9",
         "choices": [
             {
-                "name": "Q Bbb",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "W Ccc",
+                "name": "Jan Dodonna",
                 "party": "Circle Party"
             },
             {
-                "name": "e Ddd",
+                "name": "Beru Whitesun Lars",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "alderman ward 3",
+        "name": "governor",
         "selection": [
             0
         ],
         "tally": "plurality",
-        "uid": "0062"
+        "uid": "0002"
     }
 }
