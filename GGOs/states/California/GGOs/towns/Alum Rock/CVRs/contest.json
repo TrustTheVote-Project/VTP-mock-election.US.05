@@ -1,28 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/6424e8df42",
+        "cast_branch": "CVRs/0019/09726b4d58",
         "choices": [
             {
-                "name": "Aayla Secura",
+                "name": "71 72",
                 "party": "Circle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "73 74",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "state representative",
         "selection": [
-            0,
-            1,
-            2
+            0
         ],
-        "tally": "rcv",
-        "uid": "0001"
+        "tally": "plurality",
+        "uid": "0019"
     }
 }
