@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0054/37ba16aa13",
+        "cast_branch": "CVRs/0054/f4eed34cb0",
         "choices": [
             "asd asd",
             "qwe qwe",
@@ -13,9 +13,9 @@
         "max": 3,
         "name": "school board",
         "selection": [
-            5,
-            0,
-            2
+            4,
+            1,
+            3
         ],
         "tally": "plurality",
         "uid": "0054"
