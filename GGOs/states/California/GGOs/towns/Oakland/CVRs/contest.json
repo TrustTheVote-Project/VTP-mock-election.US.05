@@ -1,35 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0053/2521feccba",
+        "cast_branch": "CVRs/0056/56f56242c0",
         "choices": [
-            {
-                "name": "E E",
-                "party": "Circle Party"
-            },
-            {
-                "name": "F F",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "G G",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "H H",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "I I",
-                "party": "Pentagon Party"
-            }
+            true,
+            false
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "mayor",
+        "name": "Question 2 - new firehouse land purchase",
         "selection": [
-            4
+            0
         ],
         "tally": "plurality",
-        "uid": "0053"
+        "uid": "0056",
+        "win-by": "2/3"
     }
 }
