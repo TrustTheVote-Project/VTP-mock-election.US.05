@@ -1,23 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0054/05b5aa7bed",
+        "cast_branch": "CVRs/0056/ba99079305",
         "choices": [
-            "asd asd",
-            "qwe qwe",
-            "ert ert",
-            "rty rty",
-            "fgh fgh",
-            "tyu tyu"
+            true,
+            false
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Oakland",
-        "max": 3,
-        "name": "school board",
+        "max": 1,
+        "name": "Question 2 - new firehouse land purchase",
         "selection": [
-            1,
-            2,
-            5
+            0
         ],
         "tally": "plurality",
-        "uid": "0054"
+        "uid": "0056",
+        "win-by": "2/3"
     }
 }
