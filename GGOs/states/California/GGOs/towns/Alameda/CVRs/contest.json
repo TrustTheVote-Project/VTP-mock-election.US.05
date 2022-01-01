@@ -1,28 +1,25 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0009/5cdef9b705",
+        "cast_branch": "CVRs/0011/7a83f97f47",
         "choices": [
             {
-                "name": "Nien Nunb",
+                "name": "Fifteen Sixteen",
                 "party": "Circle Party"
             },
             {
-                "name": "Chelli Lona Aphra",
+                "name": "Seventeen Eighteen",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Hondo Ohnaka",
-                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
         "max": 2,
-        "name": "Park Administrator",
+        "name": "state representative",
         "selection": [
-            0,
-            1
+            1,
+            0
         ],
         "tally": "plurality",
-        "uid": "0009"
+        "uid": "0011",
+        "write-in": true
     }
 }
