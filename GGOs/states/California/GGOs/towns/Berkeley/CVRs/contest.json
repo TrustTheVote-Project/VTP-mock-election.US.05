@@ -1,1 +1,24 @@
-Tbav26SD5K4l/qbqNdseF1GhWTHBzqNXeu1ZeR1xdRtVB6I45CvFPid/r2RHxCkK
+{
+    "CVR": {
+        "cast_branch": "CVRs/0028/04b2ef272e",
+        "choices": [
+            {
+                "name": "Tarra Vizsla",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Sabine Wren",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "max": 1,
+        "name": "state senate",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0028",
+        "write-in": true
+    }
+}
