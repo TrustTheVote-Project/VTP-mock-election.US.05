@@ -1,18 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/d2c96d1473",
+        "cast_branch": "CVRs/0052/abdaf315d9",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            {
+                "name": "C C",
+                "party": "Circle Party"
+            },
+            {
+                "name": "D D",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "County Clerk",
+        "name": "state senate",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0003"
+        "uid": "0052"
     }
 }
