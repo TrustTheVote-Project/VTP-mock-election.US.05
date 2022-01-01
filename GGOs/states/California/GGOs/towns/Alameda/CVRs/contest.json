@@ -1,1 +1,17 @@
-oonwi3RiVJ++ioPTo4ij/7D2lhIL8B8+miJB+7E6EoyF1tcjV1odwzI+C/5DEHwb
+{
+    "CVR": {
+        "cast_branch": "CVRs/0017/bbd98e2d87",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 1,
+        "name": "Question 1 - school budget override",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0017"
+    }
+}
