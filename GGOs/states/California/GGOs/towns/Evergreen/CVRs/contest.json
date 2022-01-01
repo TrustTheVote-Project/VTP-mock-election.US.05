@@ -1,23 +1,39 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/a63b05965b",
+        "cast_branch": "CVRs/0037/7bd30d5a81",
         "choices": [
             {
-                "name": "Yoda",
+                "name": "39 40",
                 "party": "Circle Party"
             },
             {
-                "name": "Anakin Skywalker",
+                "name": "41 42",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "43 44",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "45 56",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "47 48",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "US president",
+        "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
+        "name": "mayor",
         "selection": [
-            1
+            4,
+            0,
+            3,
+            1,
+            2
         ],
-        "tally": "plurality",
-        "uid": "0000"
+        "tally": "rcv",
+        "uid": "0037",
+        "write-in": true
     }
 }
