@@ -1,1 +1,39 @@
-6LN/qrmDYi/lRN6wvjc2hbO0eLw+XW+BgBalGjvt7ixxQRx4/6Mb+ZNB3POdn1Im
+{
+    "CVR": {
+        "cast_branch": "CVRs/0037/1c7f5aaebb",
+        "choices": [
+            {
+                "name": "39 40",
+                "party": "Circle Party"
+            },
+            {
+                "name": "41 42",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "43 44",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "45 56",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "47 48",
+                "party": "Rectangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
+        "name": "mayor",
+        "selection": [
+            4,
+            3,
+            1,
+            2,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0037",
+        "write-in": true
+    }
+}
