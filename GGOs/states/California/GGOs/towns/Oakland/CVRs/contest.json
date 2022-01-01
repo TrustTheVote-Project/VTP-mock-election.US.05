@@ -1,17 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0058/1f8f994fc5",
+        "cast_branch": "CVRs/0061/3a61f4811d",
         "choices": [
             true,
             false
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 1",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
         "max": 1,
-        "name": "Question 1 - paint firehydrants blue",
+        "name": "Question 2 - paint water tower red",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0058"
+        "uid": "0061",
+        "win-by": "2/3"
     }
 }
