@@ -1,17 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0060/8f23721fc9",
+        "cast_branch": "CVRs/0002/07b12ddc0f",
         "choices": [
-            true,
-            false
+            {
+                "name": "Jan Dodonna",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Beru Whitesun Lars",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "Question 1 - paint firehydrants red",
+        "name": "governor",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0060"
+        "uid": "0002"
     }
 }
