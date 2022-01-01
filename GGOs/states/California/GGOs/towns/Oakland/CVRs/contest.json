@@ -1,18 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0061/26a008823e",
+        "cast_branch": "CVRs/0003/3764d0ad59",
         "choices": [
-            true,
-            false
+            "Roger Rabbit",
+            "Huckleberry Finn",
+            "Captain Kirk"
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
         "max": 1,
-        "name": "Question 2 - paint water tower red",
+        "name": "County Clerk",
         "selection": [
             0
         ],
         "tally": "plurality",
-        "uid": "0061",
-        "win-by": "2/3"
+        "uid": "0003"
     }
 }
