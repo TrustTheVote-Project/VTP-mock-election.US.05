@@ -1,1 +1,23 @@
-b7HpToYPHHk6RE2ERndaG5FWpgzldkjkg/JI99I3K8fLp44ZexI5f+h2E/FIeWrd
+{
+    "CVR": {
+        "cast_branch": "CVRs/0044/d9a5ab6d68",
+        "choices": [
+            {
+                "name": "Ccc Ccc",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Ddd Ddd",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "max": 1,
+        "name": "state senate",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0044"
+    }
+}
