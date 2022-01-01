@@ -1,23 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0008/1fd3f2d283",
+        "cast_branch": "CVRs/0049/8e68833bc1",
         "choices": [
-            {
-                "name": "Hans Solo",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Leia Organa",
-                "party": "Rectangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
         "max": 1,
-        "name": "Park Ranger",
+        "name": "Question 1 - school budget override",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0008"
+        "uid": "0049"
     }
 }
