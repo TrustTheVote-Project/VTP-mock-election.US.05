@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/c8c4dbd504",
+        "cast_branch": "CVRs/0004/266eb4d1d8",
         "choices": [
             {
-                "name": "Hey There",
+                "name": "Jim Green",
                 "party": "Circle Party"
             },
             {
-                "name": "Ta Da",
+                "name": "Mary Orange",
                 "party": "Triangle Party"
             },
             {
-                "name": "So Ho",
+                "name": "Jane Brown",
                 "party": "Rectangle Party"
             }
         ],
         "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Administrator",
+        "name": "Park Ranger",
         "selection": [
             2,
-            1,
-            0
+            0,
+            1
         ],
         "tally": "rcv",
-        "uid": "0005"
+        "uid": "0004"
     }
 }
