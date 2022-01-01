@@ -1,1 +1,17 @@
-mYFQa/F7rtfvB+N2AAQVqQRHzB0l4eQqPMOtZSyt1ZAEBqlsx2JU4PLdyf27EePW
+{
+    "CVR": {
+        "cast_branch": "CVRs/0041/e82dc3e539",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
+        "max": 1,
+        "name": "Question 1 - school budget override",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0041"
+    }
+}
