@@ -1,23 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/f1ba5e8536",
+        "cast_branch": "CVRs/0061/690a60169c",
         "choices": [
-            {
-                "name": "Jan Dodonna",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Beru Whitesun Lars",
-                "party": "Triangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
         "max": 1,
-        "name": "governor",
+        "name": "Question 2 - paint water tower red",
         "selection": [
             0
         ],
         "tally": "plurality",
-        "uid": "0002"
+        "uid": "0061",
+        "win-by": "2/3"
     }
 }
