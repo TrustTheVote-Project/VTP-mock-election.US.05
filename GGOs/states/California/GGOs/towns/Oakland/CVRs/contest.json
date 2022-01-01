@@ -1,27 +1,35 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0062/f11a6edcbf",
+        "cast_branch": "CVRs/0053/82f7cf2dfb",
         "choices": [
             {
-                "name": "Q Bbb",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "W Ccc",
+                "name": "E E",
                 "party": "Circle Party"
             },
             {
-                "name": "e Ddd",
+                "name": "F F",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "G G",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "H H",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "I I",
+                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "alderman ward 3",
+        "name": "mayor",
         "selection": [
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0062"
+        "uid": "0053"
     }
 }
