@@ -1,27 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0062/df1871d901",
+        "cast_branch": "CVRs/0054/b91275a8bf",
         "choices": [
-            {
-                "name": "Q Bbb",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "W Ccc",
-                "party": "Circle Party"
-            },
-            {
-                "name": "e Ddd",
-                "party": "Triangle Party"
-            }
+            "asd asd",
+            "qwe qwe",
+            "ert ert",
+            "rty rty",
+            "fgh fgh",
+            "tyu tyu"
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
-        "max": 1,
-        "name": "alderman ward 3",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 3,
+        "name": "school board",
         "selection": [
-            2
+            4,
+            3,
+            0
         ],
         "tally": "plurality",
-        "uid": "0062"
+        "uid": "0054"
     }
 }
