@@ -1,28 +1,25 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/0019164a1a",
+        "cast_branch": "CVRs/0011/1a47de637b",
         "choices": [
             {
-                "name": "Aayla Secura",
+                "name": "Fifteen Sixteen",
                 "party": "Circle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "Seventeen Eighteen",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 2,
+        "name": "state representative",
         "selection": [
-            1,
             0,
-            2
+            1
         ],
-        "tally": "rcv",
-        "uid": "0001"
+        "tally": "plurality",
+        "uid": "0011",
+        "write-in": true
     }
 }
