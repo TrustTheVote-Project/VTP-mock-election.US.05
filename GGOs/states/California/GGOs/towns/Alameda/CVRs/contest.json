@@ -1,18 +1,36 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/2645d80440",
+        "cast_branch": "CVRs/0012/3cc683d0cd",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            {
+                "name": "Nineteen Twenty",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Twentyone Twentytwo",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Twentythree Twentyfour",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Twentyfive",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "Twentysix",
+                "party": "Rectangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
-        "max": 1,
-        "name": "County Clerk",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 2,
+        "name": "state senate",
         "selection": [
-            1
+            1,
+            0
         ],
         "tally": "plurality",
-        "uid": "0003"
+        "uid": "0012"
     }
 }
