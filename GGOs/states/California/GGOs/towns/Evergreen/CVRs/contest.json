@@ -1,1 +1,24 @@
-Y17sJYuYx2z4ylPrZjkTe+FH0ozhBlY5xCFxk6KclYSp+cBp/OpmUp1Rd4ds4L8e
+{
+    "CVR": {
+        "cast_branch": "CVRs/0036/fdd9913ecf",
+        "choices": [
+            {
+                "name": "35 36",
+                "party": "Circle Party"
+            },
+            {
+                "name": "37 38",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
+        "max": 1,
+        "name": "state senate",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0036",
+        "write-in": true
+    }
+}
