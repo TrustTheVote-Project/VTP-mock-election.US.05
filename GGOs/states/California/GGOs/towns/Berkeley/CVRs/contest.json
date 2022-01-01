@@ -1,1 +1,33 @@
-6ic3KIPU5IBnPzH6YMEWtWZQTGIUU7aITLI4Bl9+F6HbbemODIQ/bipHMAYyJjxm
+{
+    "CVR": {
+        "cast_branch": "CVRs/0007/37e7ac407a",
+        "choices": [
+            {
+                "name": "One",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Two",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Three",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Four",
+                "party": "Pentagon Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
+        "name": "Park Administrator",
+        "selection": [
+            1,
+            0,
+            3,
+            2
+        ],
+        "tally": "rcv",
+        "uid": "0007"
+    }
+}
