@@ -1,17 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0060/60f4677a33",
+        "cast_branch": "CVRs/0051/1b108dc916",
         "choices": [
-            true,
-            false
+            {
+                "name": "A A",
+                "party": "Circle Party"
+            },
+            {
+                "name": "B B",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "Question 1 - paint firehydrants red",
+        "name": "state representative",
         "selection": [
             0
         ],
         "tally": "plurality",
-        "uid": "0060"
+        "uid": "0051"
     }
 }
