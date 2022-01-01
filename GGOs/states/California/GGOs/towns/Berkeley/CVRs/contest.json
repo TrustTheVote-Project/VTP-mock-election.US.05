@@ -1,33 +1,29 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0007/dee3a47f17",
+        "cast_branch": "CVRs/0032/d9ab371a7b",
         "choices": [
             {
-                "name": "One",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Two",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Three",
+                "name": "Nine Ten",
                 "party": "Rectangle Party"
             },
             {
-                "name": "Four",
+                "name": "Eleven Twelve",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "Thirteen Fourteen",
                 "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
-        "name": "Park Administrator",
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "alderman ward 3",
         "selection": [
             2,
-            1,
-            3,
-            0
+            0,
+            1
         ],
         "tally": "rcv",
-        "uid": "0007"
+        "uid": "0032",
+        "write-in": true
     }
 }
