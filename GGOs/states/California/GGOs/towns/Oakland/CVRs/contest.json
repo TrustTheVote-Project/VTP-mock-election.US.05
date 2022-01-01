@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0051/064cbfe888",
+        "cast_branch": "CVRs/0051/1e2d7f437c",
         "choices": [
             {
                 "name": "A A",
@@ -15,7 +15,7 @@
         "max": 1,
         "name": "state representative",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
         "uid": "0051"
