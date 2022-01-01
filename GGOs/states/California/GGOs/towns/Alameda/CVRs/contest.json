@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/fb0ebd42a0",
+        "cast_branch": "CVRs/0004/bd7799d3c8",
         "choices": [
             {
-                "name": "Aayla Secura",
+                "name": "Jim Green",
                 "party": "Circle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "Mary Orange",
                 "party": "Triangle Party"
             },
             {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
+                "name": "Jane Brown",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
+        "name": "Park Ranger",
         "selection": [
-            1,
             0,
+            1,
             2
         ],
         "tally": "rcv",
-        "uid": "0001"
+        "uid": "0004"
     }
 }
