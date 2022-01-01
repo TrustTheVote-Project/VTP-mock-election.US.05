@@ -1,23 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/7acbb1f4f5",
+        "cast_branch": "CVRs/0001/b444402c76",
         "choices": [
             {
-                "name": "Yoda",
+                "name": "Aayla Secura",
                 "party": "Circle Party"
             },
             {
-                "name": "Anakin Skywalker",
+                "name": "Dok-Ondar",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "Mace Windu",
+                "party": "Pentagon Party"
             }
         ],
         "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "US president",
+        "name": "US senate",
         "selection": [
-            0
+            0,
+            2,
+            1
         ],
-        "tally": "plurality",
-        "uid": "0000"
+        "tally": "rcv",
+        "uid": "0001"
     }
 }
