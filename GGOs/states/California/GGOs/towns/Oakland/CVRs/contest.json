@@ -1,17 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0058/e87ad8bec1",
+        "cast_branch": "CVRs/0052/81efc1e1b2",
         "choices": [
-            true,
-            false
+            {
+                "name": "C C",
+                "party": "Circle Party"
+            },
+            {
+                "name": "D D",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 1",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "Question 1 - paint firehydrants blue",
+        "name": "state senate",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0058"
+        "uid": "0052"
     }
 }
