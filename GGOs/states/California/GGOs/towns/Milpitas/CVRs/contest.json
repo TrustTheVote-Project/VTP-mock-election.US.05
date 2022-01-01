@@ -1,1 +1,17 @@
-MNbc7pkvL/G5TfRuAli1ENQTCs7NejFrxpz8J1/vjyrNCxef5SbKF6KEVEmFppyz
+{
+    "CVR": {
+        "cast_branch": "CVRs/0049/d789ec8f3c",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "max": 1,
+        "name": "Question 1 - school budget override",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0049"
+    }
+}
