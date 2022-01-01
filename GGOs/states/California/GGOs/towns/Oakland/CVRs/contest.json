@@ -1,23 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/db5137d1c1",
+        "cast_branch": "CVRs/0054/fc456d7754",
         "choices": [
-            {
-                "name": "Jan Dodonna",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Beru Whitesun Lars",
-                "party": "Triangle Party"
-            }
+            "asd asd",
+            "qwe qwe",
+            "ert ert",
+            "rty rty",
+            "fgh fgh",
+            "tyu tyu"
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "governor",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 3,
+        "name": "school board",
         "selection": [
-            1
+            3,
+            4,
+            2
         ],
         "tally": "plurality",
-        "uid": "0002"
+        "uid": "0054"
     }
 }
