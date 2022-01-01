@@ -1,23 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0052/b5dc3176ae",
+        "cast_branch": "CVRs/0056/72efdbe9ec",
         "choices": [
-            {
-                "name": "C C",
-                "party": "Circle Party"
-            },
-            {
-                "name": "D D",
-                "party": "Triangle Party"
-            }
+            true,
+            false
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "state senate",
+        "name": "Question 2 - new firehouse land purchase",
         "selection": [
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0052"
+        "uid": "0056",
+        "win-by": "2/3"
     }
 }
