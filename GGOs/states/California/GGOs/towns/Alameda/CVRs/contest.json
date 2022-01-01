@@ -1,28 +1,38 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0015/29b2d1fef6",
+        "cast_branch": "CVRs/0013/3191ae60e9",
         "choices": [
             {
-                "name": "9 10",
-                "party": "Rectangle Party"
+                "name": "Twentyseven",
+                "party": "Circle Party"
             },
             {
-                "name": "11 12",
+                "name": "Twenty Eight",
                 "party": "Triangle Party"
             },
             {
-                "name": "13 14",
-                "party": "Circle Party"
+                "name": "Jane Doe",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "John Doe",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "1 2",
+                "party": "Triangle Party"
             }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "name": "alderman ward 2",
+        "name": "mayor",
         "selection": [
-            1,
+            4,
             0,
-            2
+            1,
+            2,
+            3
         ],
         "tally": "rcv",
-        "uid": "0015"
+        "uid": "0013"
     }
 }
