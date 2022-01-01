@@ -1,23 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/49c2a94a9a",
+        "cast_branch": "CVRs/0015/35692fadf9",
         "choices": [
             {
-                "name": "Jan Dodonna",
-                "party": "Circle Party"
+                "name": "9 10",
+                "party": "Rectangle Party"
             },
             {
-                "name": "Beru Whitesun Lars",
+                "name": "11 12",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "13 14",
+                "party": "Circle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "governor",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "alderman ward 2",
         "selection": [
+            0,
+            2,
             1
         ],
-        "tally": "plurality",
-        "uid": "0002"
+        "tally": "rcv",
+        "uid": "0015"
     }
 }
