@@ -1,1 +1,18 @@
-5r0/8f2FSv+pr9nGh/Wmt9ZlY95hbvREYP9vJPDealSlIFuRLx4LAyzSHeNqDJIS
+{
+    "CVR": {
+        "cast_branch": "CVRs/0056/973a2b1a0e",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 1,
+        "name": "Question 2 - new firehouse land purchase",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0056",
+        "win-by": "2/3"
+    }
+}
