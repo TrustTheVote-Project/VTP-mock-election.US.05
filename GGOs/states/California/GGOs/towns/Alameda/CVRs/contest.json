@@ -1,23 +1,33 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0008/f5cdd7314b",
+        "cast_branch": "CVRs/0006/6661fce94f",
         "choices": [
             {
-                "name": "Hans Solo",
+                "name": "dog",
+                "party": "Circle Party"
+            },
+            {
+                "name": "cat",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "horse",
                 "party": "Triangle Party"
             },
             {
-                "name": "Leia Organa",
-                "party": "Rectangle Party"
+                "name": "rat",
+                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
-        "max": 1,
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
         "name": "Park Ranger",
         "selection": [
-            0
+            1,
+            2,
+            0,
+            3
         ],
-        "tally": "plurality",
-        "uid": "0008"
+        "tally": "rcv",
+        "uid": "0006"
     }
 }
