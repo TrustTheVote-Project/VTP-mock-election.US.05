@@ -1,28 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0004/1c6f611acb",
+        "cast_branch": "CVRs/0002/1dac16113c",
         "choices": [
             {
-                "name": "Jim Green",
+                "name": "Jan Dodonna",
                 "party": "Circle Party"
             },
             {
-                "name": "Mary Orange",
+                "name": "Beru Whitesun Lars",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Jane Brown",
-                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "governor",
         "selection": [
-            2,
-            1,
             0
         ],
-        "tally": "rcv",
-        "uid": "0004"
+        "tally": "plurality",
+        "uid": "0002"
     }
 }
