@@ -1,18 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/7693e183b4",
+        "cast_branch": "CVRs/0002/5ce26f428c",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            {
+                "name": "Jan Dodonna",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Beru Whitesun Lars",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "County Clerk",
+        "name": "governor",
         "selection": [
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0003"
+        "uid": "0002"
     }
 }
