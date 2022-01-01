@@ -1,24 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0035/44e9878db1",
+        "cast_branch": "CVRs/0042/258cc95b09",
         "choices": [
-            {
-                "name": "31 32",
-                "party": "Circle Party"
-            },
-            {
-                "name": "33 34",
-                "party": "Triangle Party"
-            }
+            true,
+            false
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
         "max": 1,
-        "name": "state representative",
+        "name": "Question 2 - new firehouse land purchase",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0035",
-        "write-in": true
+        "uid": "0042",
+        "win-by": "2/3"
     }
 }
