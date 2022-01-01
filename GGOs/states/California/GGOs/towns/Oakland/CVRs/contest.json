@@ -1,17 +1,35 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0065/f99230a99a",
+        "cast_branch": "CVRs/0053/b84bde24b7",
         "choices": [
-            true,
-            false
+            {
+                "name": "E E",
+                "party": "Circle Party"
+            },
+            {
+                "name": "F F",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "G G",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "H H",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "I I",
+                "party": "Pentagon Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "Question 3 - paint crosswalks yellow",
+        "name": "mayor",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0065"
+        "uid": "0053"
     }
 }
