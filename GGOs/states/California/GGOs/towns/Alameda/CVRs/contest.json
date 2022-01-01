@@ -1,36 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0012/54634e2d57",
+        "cast_branch": "CVRs/0014/935d7c48b6",
         "choices": [
             {
-                "name": "Nineteen Twenty",
+                "name": "3 4",
                 "party": "Circle Party"
             },
             {
-                "name": "Twentyone Twentytwo",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Twentythree Twentyfour",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Twentyfive",
-                "party": "Pentagon Party"
-            },
-            {
-                "name": "Twentysix",
+                "name": "5 6",
                 "party": "Rectangle Party"
+            },
+            {
+                "name": "7 8",
+                "party": "Circle Party"
             }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 2,
-        "name": "state senate",
+        "name": "alderman ward 1",
         "selection": [
             0,
-            4
+            1,
+            2
         ],
-        "tally": "plurality",
-        "uid": "0012"
+        "tally": "rcv",
+        "uid": "0014"
     }
 }
