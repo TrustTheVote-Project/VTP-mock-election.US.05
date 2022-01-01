@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0004/674e902d55",
+        "cast_branch": "CVRs/0015/601fbeb083",
         "choices": [
             {
-                "name": "Jim Green",
-                "party": "Circle Party"
+                "name": "9 10",
+                "party": "Rectangle Party"
             },
             {
-                "name": "Mary Orange",
+                "name": "11 12",
                 "party": "Triangle Party"
             },
             {
-                "name": "Jane Brown",
-                "party": "Rectangle Party"
+                "name": "13 14",
+                "party": "Circle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "alderman ward 2",
         "selection": [
             0,
-            2,
-            1
+            1,
+            2
         ],
         "tally": "rcv",
-        "uid": "0004"
+        "uid": "0015"
     }
 }
