@@ -1,1 +1,29 @@
-e/KuqPvKapNtMojhSVPqd9VNlmeDjzQZuswmCpTzqy9Rc4hRKoYSX4a2Pd0CbudN
+{
+    "CVR": {
+        "cast_branch": "CVRs/0030/49947c4dfa",
+        "choices": [
+            {
+                "name": "Captain Grey",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "One Two",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Three Four",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "alderman ward 1",
+        "selection": [
+            1,
+            2,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0030",
+        "write-in": true
+    }
+}
