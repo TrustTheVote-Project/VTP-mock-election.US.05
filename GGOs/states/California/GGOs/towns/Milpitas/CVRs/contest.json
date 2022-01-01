@@ -1,23 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0008/c109e7206d",
+        "cast_branch": "CVRs/0010/f2b76a442e",
         "choices": [
             {
-                "name": "Hans Solo",
-                "party": "Triangle Party"
+                "name": "Luke Skywalker",
+                "party": "Circle Party"
             },
             {
-                "name": "Leia Organa",
+                "name": "Padmé Amidala",
                 "party": "Rectangle Party"
+            },
+            {
+                "name": "Bail Organs",
+                "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
-        "max": 1,
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/counties/Santa Clara",
+        "name": "US house",
         "selection": [
-            1
+            2,
+            1,
+            0
         ],
-        "tally": "plurality",
-        "uid": "0008"
+        "tally": "rcv",
+        "uid": "0010"
     }
 }
