@@ -1,23 +1,26 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/cd1ae82478",
+        "cast_branch": "CVRs/0059/2cc0d61f82",
         "choices": [
             {
-                "name": "Yoda",
-                "party": "Circle Party"
+                "name": "Q One Two",
+                "party": "Rectangle Party"
             },
             {
-                "name": "Anakin Skywalker",
+                "name": "W Two Three",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "e Foo Four",
+                "party": "Circle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "US president",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "name": "alderman ward 2",
         "selection": [
             0
         ],
-        "tally": "plurality",
-        "uid": "0000"
+        "tally": "rcv",
+        "uid": "0059"
     }
 }
