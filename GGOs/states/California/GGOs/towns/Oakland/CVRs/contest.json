@@ -1,17 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0065/32a755e9e8",
+        "cast_branch": "CVRs/0052/d47b3ae9a5",
         "choices": [
-            true,
-            false
+            {
+                "name": "C C",
+                "party": "Circle Party"
+            },
+            {
+                "name": "D D",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "Question 3 - paint crosswalks yellow",
+        "name": "state senate",
         "selection": [
             0
         ],
         "tally": "plurality",
-        "uid": "0065"
+        "uid": "0052"
     }
 }
