@@ -1,1 +1,18 @@
-Duh5mMsY+ukAGbrMTozAObRPdv09Rdx7fFqP1iVLaXXIzhMqZsPt4qYadWQRqZGV
+{
+    "CVR": {
+        "cast_branch": "CVRs/0025/ef53c0dbc4",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "Question 1 - accept Pine Street as an official town road",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0025",
+        "win-by": "1/2"
+    }
+}
