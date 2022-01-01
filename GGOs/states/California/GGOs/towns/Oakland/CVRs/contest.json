@@ -1,1 +1,17 @@
-jdkveE2BNfPotOgAb8XxkGjAdG0EWzbZ1CwqmR0rJJWWOAZiZJwLVugwgqDEjS9C
+{
+    "CVR": {
+        "cast_branch": "CVRs/0055/b2bd839e43",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 1,
+        "name": "Question 1 - school budget override",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0055"
+    }
+}
