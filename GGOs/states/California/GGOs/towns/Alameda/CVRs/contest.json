@@ -1,25 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0011/57e39f7996",
+        "cast_branch": "CVRs/0017/d1367fa295",
         "choices": [
-            {
-                "name": "Fifteen Sixteen",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Seventeen Eighteen",
-                "party": "Triangle Party"
-            }
+            true,
+            false
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 2,
-        "name": "state representative",
+        "max": 1,
+        "name": "Question 1 - school budget override",
         "selection": [
-            1,
             0
         ],
         "tally": "plurality",
-        "uid": "0011",
-        "write-in": true
+        "uid": "0017"
     }
 }
