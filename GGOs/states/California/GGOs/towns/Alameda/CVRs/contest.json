@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/c8c4dbd504",
+        "cast_branch": "CVRs/0014/6b4359864d",
         "choices": [
             {
-                "name": "Hey There",
+                "name": "3 4",
                 "party": "Circle Party"
             },
             {
-                "name": "Ta Da",
-                "party": "Triangle Party"
+                "name": "5 6",
+                "party": "Rectangle Party"
             },
             {
-                "name": "So Ho",
-                "party": "Rectangle Party"
+                "name": "7 8",
+                "party": "Circle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Administrator",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "alderman ward 1",
         "selection": [
+            0,
             2,
-            1,
-            0
+            1
         ],
         "tally": "rcv",
-        "uid": "0005"
+        "uid": "0014"
     }
 }
