@@ -1,1 +1,29 @@
-iB9F6Rs4J77FJFtW3+A7tgqnDKati2I2O8Sx9wY40FT79rJ20H+sDP4LDT1X8NPg
+{
+    "CVR": {
+        "cast_branch": "CVRs/0032/9be8c14bec",
+        "choices": [
+            {
+                "name": "Nine Ten",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Eleven Twelve",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "Thirteen Fourteen",
+                "party": "Pentagon Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "alderman ward 3",
+        "selection": [
+            2,
+            0,
+            1
+        ],
+        "tally": "rcv",
+        "uid": "0032",
+        "write-in": true
+    }
+}
