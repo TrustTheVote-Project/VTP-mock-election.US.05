@@ -1,1 +1,23 @@
-2llYsKe75SjF8O7caqgkaU3o2U10s1Gl7pfxvM26kk3Gyqe0tBV10m7aPdWXpY6g
+{
+    "CVR": {
+        "cast_branch": "CVRs/0000/0070926f8c",
+        "choices": [
+            {
+                "name": "Yoda",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Anakin Skywalker",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "US president",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0000"
+    }
+}
