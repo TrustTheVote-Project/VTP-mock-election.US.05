@@ -1,17 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0065/6b9fe276ad",
+        "cast_branch": "CVRs/0056/7cf141b431",
         "choices": [
             true,
             false
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "Question 3 - paint crosswalks yellow",
+        "name": "Question 2 - new firehouse land purchase",
         "selection": [
             0
         ],
         "tally": "plurality",
-        "uid": "0065"
+        "uid": "0056",
+        "win-by": "2/3"
     }
 }
