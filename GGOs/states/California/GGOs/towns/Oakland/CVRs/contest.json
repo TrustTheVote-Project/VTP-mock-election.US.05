@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/7055ac9818",
+        "cast_branch": "CVRs/0003/36cdb2b11b",
         "choices": [
             "Roger Rabbit",
             "Huckleberry Finn",
@@ -10,7 +10,7 @@
         "max": 1,
         "name": "County Clerk",
         "selection": [
-            1
+            2
         ],
         "tally": "plurality",
         "uid": "0003"
