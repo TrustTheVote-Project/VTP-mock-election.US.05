@@ -1,23 +1,38 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0008/a98fbca63d",
+        "cast_branch": "CVRs/0045/1483102795",
         "choices": [
             {
-                "name": "Hans Solo",
+                "name": "Eee Eee",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Fff Fff",
                 "party": "Triangle Party"
             },
             {
-                "name": "Leia Organa",
+                "name": "Ggg Ggg",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Hhh Hhh",
                 "party": "Rectangle Party"
+            },
+            {
+                "name": "Iii Iii",
+                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
-        "max": 1,
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "name": "mayor",
         "selection": [
-            1
+            4,
+            0,
+            3,
+            1,
+            2
         ],
-        "tally": "plurality",
-        "uid": "0008"
+        "tally": "rcv",
+        "uid": "0045"
     }
 }
