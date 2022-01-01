@@ -1,23 +1,35 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0019/dc8a8202bf",
+        "cast_branch": "CVRs/0021/f40c01d6a8",
         "choices": [
             {
-                "name": "71 72",
+                "name": "79 80",
                 "party": "Circle Party"
             },
             {
-                "name": "73 74",
+                "name": "81 82",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "83 84",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "85 86",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "87 88",
+                "party": "Rectangle Party"
             }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
         "max": 1,
-        "name": "state representative",
+        "name": "mayor",
         "selection": [
             0
         ],
         "tally": "plurality",
-        "uid": "0019"
+        "uid": "0021"
     }
 }
