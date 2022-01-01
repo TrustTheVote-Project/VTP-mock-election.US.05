@@ -1,33 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0007/d6f12b70da",
+        "cast_branch": "CVRs/0003/9d0d8b6fd5",
         "choices": [
-            {
-                "name": "One",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Two",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Three",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "Four",
-                "party": "Pentagon Party"
-            }
+            "Roger Rabbit",
+            "Huckleberry Finn",
+            "Captain Kirk"
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
-        "name": "Park Administrator",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "max": 1,
+        "name": "County Clerk",
         "selection": [
-            3,
-            2,
-            0,
-            1
+            2
         ],
-        "tally": "rcv",
-        "uid": "0007"
+        "tally": "plurality",
+        "uid": "0003"
     }
 }
