@@ -1,23 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/b9e0632178",
+        "cast_branch": "CVRs/0017/9790d13301",
         "choices": [
-            {
-                "name": "Yoda",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Anakin Skywalker",
-                "party": "Triangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
         "max": 1,
-        "name": "US president",
+        "name": "Question 1 - school budget override",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0000"
+        "uid": "0017"
     }
 }
