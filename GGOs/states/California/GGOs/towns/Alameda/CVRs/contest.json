@@ -1,23 +1,25 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/c93bfc162f",
+        "cast_branch": "CVRs/0011/55dc55de73",
         "choices": [
             {
-                "name": "Jan Dodonna",
+                "name": "Fifteen Sixteen",
                 "party": "Circle Party"
             },
             {
-                "name": "Beru Whitesun Lars",
+                "name": "Seventeen Eighteen",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "governor",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 2,
+        "name": "state representative",
         "selection": [
+            1,
             0
         ],
         "tally": "plurality",
-        "uid": "0002"
+        "uid": "0011",
+        "write-in": true
     }
 }
