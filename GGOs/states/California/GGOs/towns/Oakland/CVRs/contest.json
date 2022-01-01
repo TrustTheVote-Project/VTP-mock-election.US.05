@@ -1,17 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0064/28998a1d0c",
+        "cast_branch": "CVRs/0055/e1b56662b2",
         "choices": [
             true,
             false
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "Question 2 - paint watertower green",
+        "name": "Question 1 - school budget override",
         "selection": [
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0064"
+        "uid": "0055"
     }
 }
