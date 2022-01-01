@@ -1,23 +1,29 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/e229bbc5c3",
+        "cast_branch": "CVRs/0032/f786e4f9b6",
         "choices": [
             {
-                "name": "Jan Dodonna",
-                "party": "Circle Party"
+                "name": "Nine Ten",
+                "party": "Rectangle Party"
             },
             {
-                "name": "Beru Whitesun Lars",
-                "party": "Triangle Party"
+                "name": "Eleven Twelve",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "Thirteen Fourteen",
+                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "governor",
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "alderman ward 3",
         "selection": [
+            0,
+            2,
             1
         ],
-        "tally": "plurality",
-        "uid": "0002"
+        "tally": "rcv",
+        "uid": "0032",
+        "write-in": true
     }
 }
