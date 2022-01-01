@@ -1,23 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/dff8a7a495",
+        "cast_branch": "CVRs/0016/e389d25562",
         "choices": [
             {
-                "name": "Yoda",
+                "name": "15 16",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "17 18",
                 "party": "Circle Party"
             },
             {
-                "name": "Anakin Skywalker",
-                "party": "Triangle Party"
+                "name": "19 20",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "US president",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "alderman ward 3",
         "selection": [
-            0
+            1,
+            0,
+            2
         ],
-        "tally": "plurality",
-        "uid": "0000"
+        "tally": "rcv",
+        "uid": "0016"
     }
 }
