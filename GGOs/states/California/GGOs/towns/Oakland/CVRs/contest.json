@@ -1,17 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0063/73b4eaaf5d",
+        "cast_branch": "CVRs/0000/5e4c85c3a1",
         "choices": [
-            true,
-            false
+            {
+                "name": "Yoda",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Anakin Skywalker",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "Question 1 - paint firehydrants green",
+        "name": "US president",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0063"
+        "uid": "0000"
     }
 }
