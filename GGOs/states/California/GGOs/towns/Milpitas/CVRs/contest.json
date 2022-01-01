@@ -1,23 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/b7319e202d",
+        "cast_branch": "CVRs/0044/2147824ec3",
         "choices": [
             {
-                "name": "Yoda",
+                "name": "Ccc Ccc",
                 "party": "Circle Party"
             },
             {
-                "name": "Anakin Skywalker",
+                "name": "Ddd Ddd",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
         "max": 1,
-        "name": "US president",
+        "name": "state senate",
         "selection": [
             0
         ],
         "tally": "plurality",
-        "uid": "0000"
+        "uid": "0044"
     }
 }
