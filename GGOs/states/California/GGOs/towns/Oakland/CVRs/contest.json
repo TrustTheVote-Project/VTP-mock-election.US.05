@@ -1,23 +1,27 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/fc48f3c70c",
+        "cast_branch": "CVRs/0062/f71f2fb48c",
         "choices": [
             {
-                "name": "Yoda",
+                "name": "Q Bbb",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "W Ccc",
                 "party": "Circle Party"
             },
             {
-                "name": "Anakin Skywalker",
+                "name": "e Ddd",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
         "max": 1,
-        "name": "US president",
+        "name": "alderman ward 3",
         "selection": [
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0000"
+        "uid": "0062"
     }
 }
