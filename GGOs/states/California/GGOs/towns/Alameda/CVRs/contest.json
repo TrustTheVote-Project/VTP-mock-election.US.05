@@ -1,33 +1,38 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/52445f27e9",
+        "cast_branch": "CVRs/0013/3918cb8383",
         "choices": [
             {
-                "name": "dog",
+                "name": "Twentyseven",
                 "party": "Circle Party"
             },
             {
-                "name": "cat",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "horse",
+                "name": "Twenty Eight",
                 "party": "Triangle Party"
             },
             {
-                "name": "rat",
+                "name": "Jane Doe",
                 "party": "Pentagon Party"
+            },
+            {
+                "name": "John Doe",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "1 2",
+                "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "mayor",
         "selection": [
-            0,
+            4,
             1,
-            3,
-            2
+            2,
+            0,
+            3
         ],
         "tally": "rcv",
-        "uid": "0006"
+        "uid": "0013"
     }
 }
