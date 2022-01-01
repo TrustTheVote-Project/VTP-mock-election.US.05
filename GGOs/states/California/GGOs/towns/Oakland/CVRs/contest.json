@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/9e745c9dd3",
+        "cast_branch": "CVRs/0001/9d64f5f751",
         "choices": [
             {
                 "name": "Aayla Secura",
@@ -18,9 +18,7 @@
         "ggo": "GGOs/states/California",
         "name": "US senate",
         "selection": [
-            1,
-            0,
-            2
+            0
         ],
         "tally": "rcv",
         "uid": "0001"
