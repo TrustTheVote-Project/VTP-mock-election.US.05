@@ -1,23 +1,35 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/4d5691db5e",
+        "cast_branch": "CVRs/0053/ca804ea50b",
         "choices": [
             {
-                "name": "Jan Dodonna",
+                "name": "E E",
                 "party": "Circle Party"
             },
             {
-                "name": "Beru Whitesun Lars",
+                "name": "F F",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "G G",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "H H",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "I I",
+                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "governor",
+        "name": "mayor",
         "selection": [
-            1
+            4
         ],
         "tally": "plurality",
-        "uid": "0002"
+        "uid": "0053"
     }
 }
