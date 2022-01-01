@@ -1,28 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/e0bff1ba26",
+        "cast_branch": "CVRs/0061/c8e9f1048c",
         "choices": [
-            {
-                "name": "Aayla Secura",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Dok-Ondar",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "max": 1,
+        "name": "Question 2 - paint water tower red",
         "selection": [
-            2,
-            1,
-            0
+            1
         ],
-        "tally": "rcv",
-        "uid": "0001"
+        "tally": "plurality",
+        "uid": "0061",
+        "win-by": "2/3"
     }
 }
