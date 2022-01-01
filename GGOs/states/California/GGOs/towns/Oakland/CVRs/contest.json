@@ -1,23 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0051/0dd926981b",
+        "cast_branch": "CVRs/0061/501b97aad5",
         "choices": [
-            {
-                "name": "A A",
-                "party": "Circle Party"
-            },
-            {
-                "name": "B B",
-                "party": "Triangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
         "max": 1,
-        "name": "state representative",
+        "name": "Question 2 - paint water tower red",
         "selection": [
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0051"
+        "uid": "0061",
+        "win-by": "2/3"
     }
 }
