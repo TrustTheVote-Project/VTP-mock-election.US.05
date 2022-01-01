@@ -1,1 +1,33 @@
-jFUBG7BNw3IYhuDBwIKao8i3R1zj1Cepb3zKlHvCssNzxhLeYhakM99XGmunjvBy
+{
+    "CVR": {
+        "cast_branch": "CVRs/0006/78041785be",
+        "choices": [
+            {
+                "name": "dog",
+                "party": "Circle Party"
+            },
+            {
+                "name": "cat",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "horse",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "rat",
+                "party": "Pentagon Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
+        "name": "Park Ranger",
+        "selection": [
+            2,
+            0,
+            1,
+            3
+        ],
+        "tally": "rcv",
+        "uid": "0006"
+    }
+}
