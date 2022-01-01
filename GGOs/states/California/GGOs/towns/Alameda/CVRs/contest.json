@@ -1,1 +1,28 @@
-8LSiQAtFGW3KhOCLf4+mnecYEfNND5BClBeSi7XXtzEdv7ATuL5KK/R7/ZXdBi6N
+{
+    "CVR": {
+        "cast_branch": "CVRs/0005/c7e98ceb51",
+        "choices": [
+            {
+                "name": "Hey There",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Ta Da",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "So Ho",
+                "party": "Rectangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
+        "name": "Park Administrator",
+        "selection": [
+            0,
+            2,
+            1
+        ],
+        "tally": "rcv",
+        "uid": "0005"
+    }
+}
