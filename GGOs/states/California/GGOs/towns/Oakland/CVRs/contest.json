@@ -1,28 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0057/77a9b76581",
+        "cast_branch": "CVRs/0051/02646538d8",
         "choices": [
             {
-                "name": "QQ One",
-                "party": "Rectangle Party"
+                "name": "A A",
+                "party": "Circle Party"
             },
             {
-                "name": "WW Two",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "ee Foo",
-                "party": "Rectangle Party"
+                "name": "B B",
+                "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 1",
-        "name": "alderman ward 1",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 1,
+        "name": "state representative",
         "selection": [
-            0,
-            2,
-            1
+            0
         ],
-        "tally": "rcv",
-        "uid": "0057"
+        "tally": "plurality",
+        "uid": "0051"
     }
 }
