@@ -1,1 +1,18 @@
-zUImmGjGSJ09qLQQY4vkHmIulRHobiZCsjbXmHf3MtDovM0Mq4Njsw9a8fNwtC0Z
+{
+    "CVR": {
+        "cast_branch": "CVRs/0018/a891e6c5be",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 1,
+        "name": "Question 2 - new firehouse land purchase",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0018",
+        "win-by": "2/3"
+    }
+}
