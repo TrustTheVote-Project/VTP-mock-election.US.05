@@ -1,23 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0043/d6780ba8fa",
+        "cast_branch": "CVRs/0008/0ad7fc53df",
         "choices": [
             {
-                "name": "Aaa Aaa",
-                "party": "Circle Party"
+                "name": "Hans Solo",
+                "party": "Triangle Party"
             },
             {
-                "name": "Bbb Bbb",
-                "party": "Triangle Party"
+                "name": "Leia Organa",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
         "max": 1,
-        "name": "state representative",
+        "name": "Park Ranger",
         "selection": [
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0043"
+        "uid": "0008"
     }
 }
