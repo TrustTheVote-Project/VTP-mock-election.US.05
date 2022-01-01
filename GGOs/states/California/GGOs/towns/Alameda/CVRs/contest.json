@@ -1,23 +1,38 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0008/f5cdd7314b",
+        "cast_branch": "CVRs/0013/766579af7e",
         "choices": [
             {
-                "name": "Hans Solo",
+                "name": "Twentyseven",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Twenty Eight",
                 "party": "Triangle Party"
             },
             {
-                "name": "Leia Organa",
+                "name": "Jane Doe",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "John Doe",
                 "party": "Rectangle Party"
+            },
+            {
+                "name": "1 2",
+                "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
-        "max": 1,
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "mayor",
         "selection": [
-            0
+            4,
+            3,
+            2,
+            0,
+            1
         ],
-        "tally": "plurality",
-        "uid": "0008"
+        "tally": "rcv",
+        "uid": "0013"
     }
 }
