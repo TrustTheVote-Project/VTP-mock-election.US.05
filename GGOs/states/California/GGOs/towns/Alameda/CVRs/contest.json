@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/65826f96ef",
+        "cast_branch": "CVRs/0015/14aafe6c71",
         "choices": [
             {
-                "name": "Aayla Secura",
-                "party": "Circle Party"
+                "name": "9 10",
+                "party": "Rectangle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "11 12",
                 "party": "Triangle Party"
             },
             {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
+                "name": "13 14",
+                "party": "Circle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "alderman ward 2",
         "selection": [
             1,
-            0,
-            2
+            2,
+            0
         ],
         "tally": "rcv",
-        "uid": "0001"
+        "uid": "0015"
     }
 }
