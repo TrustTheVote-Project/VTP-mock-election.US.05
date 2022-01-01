@@ -1,1 +1,24 @@
-3+MbHQQrtO/Y/fK29w60IhCF3UWj1oXSN8G1wCOd+eBJtpz/owPNM147mGxx3ti0
+{
+    "CVR": {
+        "cast_branch": "CVRs/0027/e54c0e7395",
+        "choices": [
+            {
+                "name": "Owen Lars",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Luminara Unduli",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "max": 1,
+        "name": "state representative",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0027",
+        "write-in": true
+    }
+}
