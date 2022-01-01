@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0053/a8224ba940",
+        "cast_branch": "CVRs/0053/e8e381f517",
         "choices": [
             {
                 "name": "E E",
@@ -27,7 +27,7 @@
         "max": 1,
         "name": "mayor",
         "selection": [
-            3
+            0
         ],
         "tally": "plurality",
         "uid": "0053"
