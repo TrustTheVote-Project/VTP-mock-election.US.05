@@ -1,18 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0056/12d79c4c96",
+        "cast_branch": "CVRs/0060/a8fd30a289",
         "choices": [
             true,
             false
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
         "max": 1,
-        "name": "Question 2 - new firehouse land purchase",
+        "name": "Question 1 - paint firehydrants red",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0056",
-        "win-by": "2/3"
+        "uid": "0060"
     }
 }
