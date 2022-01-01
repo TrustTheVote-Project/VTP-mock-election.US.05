@@ -1,28 +1,38 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/d1ad39c062",
+        "cast_branch": "CVRs/0013/132e516288",
         "choices": [
             {
-                "name": "Aayla Secura",
+                "name": "Twentyseven",
                 "party": "Circle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "Twenty Eight",
                 "party": "Triangle Party"
             },
             {
-                "name": "Mace Windu",
+                "name": "Jane Doe",
                 "party": "Pentagon Party"
+            },
+            {
+                "name": "John Doe",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "1 2",
+                "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "mayor",
         "selection": [
-            2,
             0,
-            1
+            1,
+            4,
+            3,
+            2
         ],
         "tally": "rcv",
-        "uid": "0001"
+        "uid": "0013"
     }
 }
