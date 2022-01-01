@@ -1,28 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0059/623b1123bc",
+        "cast_branch": "CVRs/0003/309f66e11b",
         "choices": [
-            {
-                "name": "Q One Two",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "W Two Three",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "e Foo Four",
-                "party": "Circle Party"
-            }
+            "Roger Rabbit",
+            "Huckleberry Finn",
+            "Captain Kirk"
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
-        "name": "alderman ward 2",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "max": 1,
+        "name": "County Clerk",
         "selection": [
-            0,
-            1,
             2
         ],
-        "tally": "rcv",
-        "uid": "0059"
+        "tally": "plurality",
+        "uid": "0003"
     }
 }
