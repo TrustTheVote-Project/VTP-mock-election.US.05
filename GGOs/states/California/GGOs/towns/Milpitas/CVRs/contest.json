@@ -1,28 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/2bc24f7f71",
+        "cast_branch": "CVRs/0043/69aa878f09",
         "choices": [
             {
-                "name": "Aayla Secura",
+                "name": "Aaa Aaa",
                 "party": "Circle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "Bbb Bbb",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "max": 1,
+        "name": "state representative",
         "selection": [
-            1,
-            0,
-            2
+            1
         ],
-        "tally": "rcv",
-        "uid": "0001"
+        "tally": "plurality",
+        "uid": "0043"
     }
 }
