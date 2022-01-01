@@ -1,23 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0051/1a3d549eb6",
+        "cast_branch": "CVRs/0002/ca84b02364",
         "choices": [
             {
-                "name": "A A",
+                "name": "Jan Dodonna",
                 "party": "Circle Party"
             },
             {
-                "name": "B B",
+                "name": "Beru Whitesun Lars",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "state representative",
+        "name": "governor",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0051"
+        "uid": "0002"
     }
 }
