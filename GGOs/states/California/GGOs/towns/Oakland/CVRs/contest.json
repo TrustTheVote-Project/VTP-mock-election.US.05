@@ -1,18 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/7055ac9818",
+        "cast_branch": "CVRs/0060/2a885e4b2d",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
         "max": 1,
-        "name": "County Clerk",
+        "name": "Question 1 - paint firehydrants red",
         "selection": [
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0003"
+        "uid": "0060"
     }
 }
