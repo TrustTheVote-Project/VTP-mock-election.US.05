@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0010/67c12b3df3",
+        "cast_branch": "CVRs/0009/6348e0a7dd",
         "choices": [
             {
-                "name": "Luke Skywalker",
+                "name": "Nien Nunb",
                 "party": "Circle Party"
             },
             {
-                "name": "Padmé Amidala",
-                "party": "Rectangle Party"
+                "name": "Chelli Lona Aphra",
+                "party": "Triangle Party"
             },
             {
-                "name": "Bail Organs",
-                "party": "Triangle Party"
+                "name": "Hondo Ohnaka",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Santa Clara",
-        "name": "US house",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
+        "max": 2,
+        "name": "Park Administrator",
         "selection": [
-            0,
             1,
             2
         ],
-        "tally": "rcv",
-        "uid": "0010"
+        "tally": "plurality",
+        "uid": "0009"
     }
 }
