@@ -1,33 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/2c17123543",
+        "cast_branch": "CVRs/0000/62ab4950f0",
         "choices": [
             {
-                "name": "dog",
+                "name": "Yoda",
                 "party": "Circle Party"
             },
             {
-                "name": "cat",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "horse",
+                "name": "Anakin Skywalker",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "rat",
-                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "US president",
         "selection": [
-            0,
-            2,
-            1,
-            3
+            0
         ],
-        "tally": "rcv",
-        "uid": "0006"
+        "tally": "plurality",
+        "uid": "0000"
     }
 }
