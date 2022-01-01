@@ -1,36 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0012/6c0d88299a",
+        "cast_branch": "CVRs/0005/d9be597529",
         "choices": [
             {
-                "name": "Nineteen Twenty",
+                "name": "Hey There",
                 "party": "Circle Party"
             },
             {
-                "name": "Twentyone Twentytwo",
+                "name": "Ta Da",
                 "party": "Triangle Party"
             },
             {
-                "name": "Twentythree Twentyfour",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Twentyfive",
-                "party": "Pentagon Party"
-            },
-            {
-                "name": "Twentysix",
+                "name": "So Ho",
                 "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 2,
-        "name": "state senate",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
+        "name": "Park Administrator",
         "selection": [
-            4,
-            2
+            0,
+            2,
+            1
         ],
-        "tally": "plurality",
-        "uid": "0012"
+        "tally": "rcv",
+        "uid": "0005"
     }
 }
