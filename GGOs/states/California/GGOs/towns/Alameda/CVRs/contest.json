@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/3485736591",
+        "cast_branch": "CVRs/0001/134cf73587",
         "choices": [
             {
-                "name": "Hey There",
+                "name": "Aayla Secura",
                 "party": "Circle Party"
             },
             {
-                "name": "Ta Da",
+                "name": "Dok-Ondar",
                 "party": "Triangle Party"
             },
             {
-                "name": "So Ho",
-                "party": "Rectangle Party"
+                "name": "Mace Windu",
+                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Administrator",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
+            2,
             0,
-            1,
-            2
+            1
         ],
         "tally": "rcv",
-        "uid": "0005"
+        "uid": "0001"
     }
 }
