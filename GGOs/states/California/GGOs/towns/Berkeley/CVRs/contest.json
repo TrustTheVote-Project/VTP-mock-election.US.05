@@ -1,28 +1,29 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/2b0fca354d",
+        "cast_branch": "CVRs/0030/64dd437c9a",
         "choices": [
             {
-                "name": "Aayla Secura",
-                "party": "Circle Party"
+                "name": "Captain Grey",
+                "party": "Rectangle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "One Two",
                 "party": "Triangle Party"
             },
             {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
+                "name": "Three Four",
+                "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "alderman ward 1",
         "selection": [
-            2,
             0,
+            2,
             1
         ],
         "tally": "rcv",
-        "uid": "0001"
+        "uid": "0030",
+        "write-in": true
     }
 }
