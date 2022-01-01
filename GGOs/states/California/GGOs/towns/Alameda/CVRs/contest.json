@@ -1,28 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/3485736591",
+        "cast_branch": "CVRs/0018/b60ed598f2",
         "choices": [
-            {
-                "name": "Hey There",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Ta Da",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "So Ho",
-                "party": "Rectangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Administrator",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 1,
+        "name": "Question 2 - new firehouse land purchase",
         "selection": [
-            0,
-            1,
-            2
+            0
         ],
-        "tally": "rcv",
-        "uid": "0005"
+        "tally": "plurality",
+        "uid": "0018",
+        "win-by": "2/3"
     }
 }
