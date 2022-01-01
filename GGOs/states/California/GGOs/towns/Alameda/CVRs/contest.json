@@ -1,17 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0017/f3770f444f",
+        "cast_branch": "CVRs/0016/a8499b9019",
         "choices": [
-            true,
-            false
+            {
+                "name": "15 16",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "17 18",
+                "party": "Circle Party"
+            },
+            {
+                "name": "19 20",
+                "party": "Rectangle Party"
+            }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 1,
-        "name": "Question 1 - school budget override",
+        "name": "alderman ward 3",
         "selection": [
+            0,
+            2,
             1
         ],
-        "tally": "plurality",
-        "uid": "0017"
+        "tally": "rcv",
+        "uid": "0016"
     }
 }
