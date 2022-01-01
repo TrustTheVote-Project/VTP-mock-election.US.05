@@ -1,1 +1,29 @@
-vpPQJxVmj0YHqWzWA02qP6/TbPTz7G2MsK34yZZ27sDNRW3V8tiafpzD6YJL85q8
+{
+    "CVR": {
+        "cast_branch": "CVRs/0031/d19bf8b74f",
+        "choices": [
+            {
+                "name": "Depa Billaba",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Five Six",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Seven Eight",
+                "party": "Rectangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "alderman ward 2",
+        "selection": [
+            1,
+            2,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0031",
+        "write-in": true
+    }
+}
