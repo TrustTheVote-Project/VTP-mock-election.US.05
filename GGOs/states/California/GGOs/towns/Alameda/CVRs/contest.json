@@ -1,18 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/867d015b7b",
+        "cast_branch": "CVRs/0000/d454c7ef2b",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            {
+                "name": "Yoda",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Anakin Skywalker",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "County Clerk",
+        "name": "US president",
         "selection": [
-            2
+            1
         ],
         "tally": "plurality",
-        "uid": "0003"
+        "uid": "0000"
     }
 }
