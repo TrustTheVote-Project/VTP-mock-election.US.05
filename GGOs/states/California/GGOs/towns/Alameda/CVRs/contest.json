@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0013/132e516288",
+        "cast_branch": "CVRs/0013/2a08925fd5",
         "choices": [
             {
                 "name": "Twentyseven",
@@ -26,11 +26,11 @@
         "ggo": "GGOs/states/California/GGOs/towns/Alameda",
         "name": "mayor",
         "selection": [
-            0,
-            1,
-            4,
+            2,
             3,
-            2
+            4,
+            1,
+            0
         ],
         "tally": "rcv",
         "uid": "0013"
