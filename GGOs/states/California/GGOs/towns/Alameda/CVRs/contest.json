@@ -1,23 +1,38 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/ff61cc6f7a",
+        "cast_branch": "CVRs/0013/6b8dbd5874",
         "choices": [
             {
-                "name": "Jan Dodonna",
+                "name": "Twentyseven",
                 "party": "Circle Party"
             },
             {
-                "name": "Beru Whitesun Lars",
+                "name": "Twenty Eight",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Jane Doe",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "John Doe",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "1 2",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "governor",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "mayor",
         "selection": [
-            0
+            0,
+            1,
+            2,
+            4,
+            3
         ],
-        "tally": "plurality",
-        "uid": "0002"
+        "tally": "rcv",
+        "uid": "0013"
     }
 }
