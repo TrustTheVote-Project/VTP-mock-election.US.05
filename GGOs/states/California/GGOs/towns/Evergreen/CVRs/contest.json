@@ -1,1 +1,28 @@
-p20AOOH//6CDrL7COvoXyrLjx/blHMQymx6Rv+XYMbUEfc8aspHRq/0d98BA+wKr
+{
+    "CVR": {
+        "cast_branch": "CVRs/0038/447834d52d",
+        "choices": [
+            {
+                "name": "49 50",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "51 52",
+                "party": "Circle Party"
+            },
+            {
+                "name": "53 54",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
+        "name": "alderman ward 1",
+        "selection": [
+            1,
+            2,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0038"
+    }
+}
