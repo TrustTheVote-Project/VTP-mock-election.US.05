@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/781c1c1f79",
+        "cast_branch": "CVRs/0002/c54a54e166",
         "choices": [
             {
                 "name": "Jan Dodonna",
@@ -15,7 +15,7 @@
         "max": 1,
         "name": "governor",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
         "uid": "0002"
