@@ -1,28 +1,24 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/04fcba4037",
+        "cast_branch": "CVRs/0035/6274360636",
         "choices": [
             {
-                "name": "Aayla Secura",
+                "name": "31 32",
                 "party": "Circle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "33 34",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
+        "max": 1,
+        "name": "state representative",
         "selection": [
-            0,
-            1,
-            2
+            0
         ],
-        "tally": "rcv",
-        "uid": "0001"
+        "tally": "plurality",
+        "uid": "0035",
+        "write-in": true
     }
 }
