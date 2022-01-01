@@ -1,18 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/8a1e7d4321",
+        "cast_branch": "CVRs/0009/b1a6c8fee9",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            {
+                "name": "Nien Nunb",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Chelli Lona Aphra",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Hondo Ohnaka",
+                "party": "Rectangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
-        "max": 1,
-        "name": "County Clerk",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
+        "max": 2,
+        "name": "Park Administrator",
         "selection": [
-            1
+            2,
+            0
         ],
         "tally": "plurality",
-        "uid": "0003"
+        "uid": "0009"
     }
 }
