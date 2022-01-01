@@ -1,28 +1,25 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0004/1c6f611acb",
+        "cast_branch": "CVRs/0011/92389c0962",
         "choices": [
             {
-                "name": "Jim Green",
+                "name": "Fifteen Sixteen",
                 "party": "Circle Party"
             },
             {
-                "name": "Mary Orange",
+                "name": "Seventeen Eighteen",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Jane Brown",
-                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 2,
+        "name": "state representative",
         "selection": [
-            2,
-            1,
-            0
+            0,
+            1
         ],
-        "tally": "rcv",
-        "uid": "0004"
+        "tally": "plurality",
+        "uid": "0011",
+        "write-in": true
     }
 }
