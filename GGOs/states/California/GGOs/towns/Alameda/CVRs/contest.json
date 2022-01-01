@@ -1,23 +1,38 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/307ad4a80f",
+        "cast_branch": "CVRs/0013/344e4a0e7e",
         "choices": [
             {
-                "name": "Yoda",
+                "name": "Twentyseven",
                 "party": "Circle Party"
             },
             {
-                "name": "Anakin Skywalker",
+                "name": "Twenty Eight",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Jane Doe",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "John Doe",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "1 2",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "US president",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "mayor",
         "selection": [
-            0
+            3,
+            0,
+            2,
+            4,
+            1
         ],
-        "tally": "plurality",
-        "uid": "0000"
+        "tally": "rcv",
+        "uid": "0013"
     }
 }
