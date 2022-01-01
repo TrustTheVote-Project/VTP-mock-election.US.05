@@ -1,35 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0053/5da9822fdf",
+        "cast_branch": "CVRs/0060/9cbcb5cebb",
         "choices": [
-            {
-                "name": "E E",
-                "party": "Circle Party"
-            },
-            {
-                "name": "F F",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "G G",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "H H",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "I I",
-                "party": "Pentagon Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
         "max": 1,
-        "name": "mayor",
+        "name": "Question 1 - paint firehydrants red",
         "selection": [
-            2
+            0
         ],
         "tally": "plurality",
-        "uid": "0053"
+        "uid": "0060"
     }
 }
