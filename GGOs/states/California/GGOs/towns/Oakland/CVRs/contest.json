@@ -1,18 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0056/f27689f9e4",
+        "cast_branch": "CVRs/0001/2f07a63219",
         "choices": [
-            true,
-            false
+            {
+                "name": "Aayla Secura",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Dok-Ondar",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Mace Windu",
+                "party": "Pentagon Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
-        "max": 1,
-        "name": "Question 2 - new firehouse land purchase",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
+            0,
+            2,
             1
         ],
-        "tally": "plurality",
-        "uid": "0056",
-        "win-by": "2/3"
+        "tally": "rcv",
+        "uid": "0001"
     }
 }
