@@ -1,28 +1,36 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0009/8932c2c448",
+        "cast_branch": "CVRs/0012/c182bbf54d",
         "choices": [
             {
-                "name": "Nien Nunb",
+                "name": "Nineteen Twenty",
                 "party": "Circle Party"
             },
             {
-                "name": "Chelli Lona Aphra",
+                "name": "Twentyone Twentytwo",
                 "party": "Triangle Party"
             },
             {
-                "name": "Hondo Ohnaka",
+                "name": "Twentythree Twentyfour",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Twentyfive",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "Twentysix",
                 "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
         "max": 2,
-        "name": "Park Administrator",
+        "name": "state senate",
         "selection": [
-            2,
-            1
+            4,
+            3
         ],
         "tally": "plurality",
-        "uid": "0009"
+        "uid": "0012"
     }
 }
