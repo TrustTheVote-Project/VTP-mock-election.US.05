@@ -1,23 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0054/bc1e171649",
+        "cast_branch": "CVRs/0000/711f25adf4",
         "choices": [
-            "asd asd",
-            "qwe qwe",
-            "ert ert",
-            "rty rty",
-            "fgh fgh",
-            "tyu tyu"
+            {
+                "name": "Yoda",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Anakin Skywalker",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
-        "max": 3,
-        "name": "school board",
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "US president",
         "selection": [
-            5,
-            4,
-            2
+            0
         ],
         "tally": "plurality",
-        "uid": "0054"
+        "uid": "0000"
     }
 }
