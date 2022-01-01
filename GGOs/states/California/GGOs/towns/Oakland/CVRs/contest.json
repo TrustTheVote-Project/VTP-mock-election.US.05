@@ -1,28 +1,35 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/5128006988",
+        "cast_branch": "CVRs/0053/0ada3410ae",
         "choices": [
             {
-                "name": "Aayla Secura",
+                "name": "E E",
                 "party": "Circle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "F F",
                 "party": "Triangle Party"
             },
             {
-                "name": "Mace Windu",
+                "name": "G G",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "H H",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "I I",
                 "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 1,
+        "name": "mayor",
         "selection": [
-            2,
-            0,
-            1
+            0
         ],
-        "tally": "rcv",
-        "uid": "0001"
+        "tally": "plurality",
+        "uid": "0053"
     }
 }
