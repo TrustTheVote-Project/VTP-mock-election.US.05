@@ -1,28 +1,38 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/c8c4dbd504",
+        "cast_branch": "CVRs/0013/c337a44414",
         "choices": [
             {
-                "name": "Hey There",
+                "name": "Twentyseven",
                 "party": "Circle Party"
             },
             {
-                "name": "Ta Da",
+                "name": "Twenty Eight",
                 "party": "Triangle Party"
             },
             {
-                "name": "So Ho",
+                "name": "Jane Doe",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "John Doe",
                 "party": "Rectangle Party"
+            },
+            {
+                "name": "1 2",
+                "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Administrator",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "mayor",
         "selection": [
+            0,
+            3,
+            4,
             2,
-            1,
-            0
+            1
         ],
         "tally": "rcv",
-        "uid": "0005"
+        "uid": "0013"
     }
 }
