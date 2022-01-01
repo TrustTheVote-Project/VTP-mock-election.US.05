@@ -1,1 +1,35 @@
-8XV9nGXZfHSTGmDf/Nv1xaodVswvQJ/rrWRFHKE2Bmr+QDV6qoQ4EdVnX00NIfyN
+{
+    "CVR": {
+        "cast_branch": "CVRs/0021/f129030295",
+        "choices": [
+            {
+                "name": "79 80",
+                "party": "Circle Party"
+            },
+            {
+                "name": "81 82",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "83 84",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "85 86",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "87 88",
+                "party": "Rectangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "mayor",
+        "selection": [
+            4
+        ],
+        "tally": "plurality",
+        "uid": "0021"
+    }
+}
