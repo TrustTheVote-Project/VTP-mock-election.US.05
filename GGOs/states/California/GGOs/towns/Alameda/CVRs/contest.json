@@ -1,1 +1,23 @@
-rjbjIc84Ll97DqyJmumSQdXzSHEed72uDdwZ1GLfgWjONd2evJVkxKIzb/XRMvnM
+{
+    "CVR": {
+        "cast_branch": "CVRs/0008/fa2438cb81",
+        "choices": [
+            {
+                "name": "Hans Solo",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Leia Organa",
+                "party": "Rectangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
+        "max": 1,
+        "name": "Park Ranger",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0008"
+    }
+}
