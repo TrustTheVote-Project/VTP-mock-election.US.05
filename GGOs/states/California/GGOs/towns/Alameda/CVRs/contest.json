@@ -1,1 +1,28 @@
-lZpxmblMrwqc7Wn5RhlVLjEgPw8GeMDKGW2j2zLAet0nAmt9VvP6AHkFj9NqakaF
+{
+    "CVR": {
+        "cast_branch": "CVRs/0015/8c7983bca0",
+        "choices": [
+            {
+                "name": "9 10",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "11 12",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "13 14",
+                "party": "Circle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "alderman ward 2",
+        "selection": [
+            0,
+            1,
+            2
+        ],
+        "tally": "rcv",
+        "uid": "0015"
+    }
+}
