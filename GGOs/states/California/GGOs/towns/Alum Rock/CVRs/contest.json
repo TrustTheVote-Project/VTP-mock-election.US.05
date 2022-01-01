@@ -1,28 +1,27 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0010/39a5ed534a",
+        "cast_branch": "CVRs/0023/3590ec0bdc",
         "choices": [
             {
-                "name": "Luke Skywalker",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Padmé Amidala",
+                "name": "95 96",
                 "party": "Rectangle Party"
             },
             {
-                "name": "Bail Organs",
+                "name": "97 98",
+                "party": "Circle Party"
+            },
+            {
+                "name": "99 100",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Santa Clara",
-        "name": "US house",
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "alderman ward 2",
         "selection": [
-            2,
-            1,
-            0
+            2
         ],
-        "tally": "rcv",
-        "uid": "0010"
+        "tally": "plurality",
+        "uid": "0023"
     }
 }
