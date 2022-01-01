@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0015/6f6f1fbf64",
+        "cast_branch": "CVRs/0014/a528a07a14",
         "choices": [
             {
-                "name": "9 10",
+                "name": "3 4",
+                "party": "Circle Party"
+            },
+            {
+                "name": "5 6",
                 "party": "Rectangle Party"
             },
             {
-                "name": "11 12",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "13 14",
+                "name": "7 8",
                 "party": "Circle Party"
             }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "name": "alderman ward 2",
+        "name": "alderman ward 1",
         "selection": [
-            1,
+            0,
             2,
-            0
+            1
         ],
         "tally": "rcv",
-        "uid": "0015"
+        "uid": "0014"
     }
 }
