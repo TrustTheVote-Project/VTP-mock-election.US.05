@@ -1,28 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/7899b85b8e",
+        "cast_branch": "CVRs/0017/8067dfcb5d",
         "choices": [
-            {
-                "name": "Hey There",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Ta Da",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "So Ho",
-                "party": "Rectangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Administrator",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 1,
+        "name": "Question 1 - school budget override",
         "selection": [
-            1,
-            0,
-            2
+            1
         ],
-        "tally": "rcv",
-        "uid": "0005"
+        "tally": "plurality",
+        "uid": "0017"
     }
 }
