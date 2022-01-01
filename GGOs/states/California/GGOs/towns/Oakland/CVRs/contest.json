@@ -1,17 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0063/348ef441af",
+        "cast_branch": "CVRs/0001/c0e10cb593",
         "choices": [
-            true,
-            false
+            {
+                "name": "Aayla Secura",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Dok-Ondar",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Mace Windu",
+                "party": "Pentagon Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
-        "max": 1,
-        "name": "Question 1 - paint firehydrants green",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
-            0
+            2,
+            0,
+            1
         ],
-        "tally": "plurality",
-        "uid": "0063"
+        "tally": "rcv",
+        "uid": "0001"
     }
 }
