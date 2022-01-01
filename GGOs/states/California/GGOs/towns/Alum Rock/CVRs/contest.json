@@ -1,23 +1,35 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/b34f3d9204",
+        "cast_branch": "CVRs/0021/7e3232e707",
         "choices": [
             {
-                "name": "Jan Dodonna",
+                "name": "79 80",
                 "party": "Circle Party"
             },
             {
-                "name": "Beru Whitesun Lars",
+                "name": "81 82",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "83 84",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "85 86",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "87 88",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
         "max": 1,
-        "name": "governor",
+        "name": "mayor",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0002"
+        "uid": "0021"
     }
 }
