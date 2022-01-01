@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/07f19f28f3",
+        "cast_branch": "CVRs/0010/56c3df4bf0",
         "choices": [
             {
-                "name": "Aayla Secura",
+                "name": "Luke Skywalker",
                 "party": "Circle Party"
             },
             {
-                "name": "Dok-Ondar",
-                "party": "Triangle Party"
+                "name": "Padmé Amidala",
+                "party": "Rectangle Party"
             },
             {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
+                "name": "Bail Organs",
+                "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/counties/Santa Clara",
+        "name": "US house",
         "selection": [
-            1,
+            2,
             0,
-            2
+            1
         ],
         "tally": "rcv",
-        "uid": "0001"
+        "uid": "0010"
     }
 }
