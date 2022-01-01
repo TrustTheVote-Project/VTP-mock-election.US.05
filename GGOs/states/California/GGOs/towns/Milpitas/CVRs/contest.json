@@ -1,1 +1,28 @@
-FqBmEgID2hARTaFHpEXplrRkaT2sl++0QJ8Bb9lhkT0FwMEWx2qCck2ePSxV9HBG
+{
+    "CVR": {
+        "cast_branch": "CVRs/0048/60a3597d49",
+        "choices": [
+            {
+                "name": "Ppp ppp",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Qqq Qqq",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "Rrr Rrr",
+                "party": "Circle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "name": "alderman ward 3",
+        "selection": [
+            1,
+            2,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0048"
+    }
+}
