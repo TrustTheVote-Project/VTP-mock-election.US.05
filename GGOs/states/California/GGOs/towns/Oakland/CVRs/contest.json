@@ -1,1 +1,28 @@
-3dKz8yeqD1H2C6UkgZdIJaAzS4i1pkwYYL8TfFyjpIeb0j2WuxWnhF5uHKaarzaG
+{
+    "CVR": {
+        "cast_branch": "CVRs/0057/1dee85d90e",
+        "choices": [
+            {
+                "name": "QQ One",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "WW Two",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "ee Foo",
+                "party": "Rectangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 1",
+        "name": "alderman ward 1",
+        "selection": [
+            1,
+            2,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0057"
+    }
+}
