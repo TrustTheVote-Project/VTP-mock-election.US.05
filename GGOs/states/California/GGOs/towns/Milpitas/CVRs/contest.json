@@ -1,1 +1,18 @@
-KlTKkThf9m8xIx2QHPBxVBtM3tyR5nO2RgNwd/3OlkOYiXZLhHwN+b1QTrfaZ6hl
+{
+    "CVR": {
+        "cast_branch": "CVRs/0050/dc5ff706a8",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "max": 1,
+        "name": "Question 2 - new firehouse land purchase",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0050",
+        "win-by": "3/5"
+    }
+}
