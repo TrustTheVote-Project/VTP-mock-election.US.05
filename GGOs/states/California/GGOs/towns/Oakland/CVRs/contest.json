@@ -1,1 +1,17 @@
-nmyUGi1lh4IyEF4dGV10B36BNK7EY4WhBN/SAnXciInojFNfhXSzcWBkGHC6a0gw
+{
+    "CVR": {
+        "cast_branch": "CVRs/0065/602ba772c4",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "max": 1,
+        "name": "Question 3 - paint crosswalks yellow",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0065"
+    }
+}
