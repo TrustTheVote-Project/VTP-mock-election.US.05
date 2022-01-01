@@ -1,1 +1,38 @@
-krfCIzIXJHCVY2WUpWIoU3FwfU9OyhETMEvnJ7p0pC372JU9c+yYShQi8jarb423
+{
+    "CVR": {
+        "cast_branch": "CVRs/0045/37cbe08fb3",
+        "choices": [
+            {
+                "name": "Eee Eee",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Fff Fff",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Ggg Ggg",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Hhh Hhh",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Iii Iii",
+                "party": "Pentagon Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "name": "mayor",
+        "selection": [
+            0,
+            4,
+            1,
+            2,
+            3
+        ],
+        "tally": "rcv",
+        "uid": "0045"
+    }
+}
