@@ -1,17 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0055/99f6cae71a",
+        "cast_branch": "CVRs/0065/f99230a99a",
         "choices": [
             true,
             false
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
         "max": 1,
-        "name": "Question 1 - school budget override",
+        "name": "Question 3 - paint crosswalks yellow",
         "selection": [
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0055"
+        "uid": "0065"
     }
 }
