@@ -1,28 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0048/7b3caa3724",
+        "cast_branch": "CVRs/0043/ba0f04b126",
         "choices": [
             {
-                "name": "Ppp ppp",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "Qqq Qqq",
-                "party": "Pentagon Party"
-            },
-            {
-                "name": "Rrr Rrr",
+                "name": "Aaa Aaa",
                 "party": "Circle Party"
+            },
+            {
+                "name": "Bbb Bbb",
+                "party": "Triangle Party"
             }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
-        "name": "alderman ward 3",
+        "max": 1,
+        "name": "state representative",
         "selection": [
-            2,
-            1,
             0
         ],
-        "tally": "rcv",
-        "uid": "0048"
+        "tally": "plurality",
+        "uid": "0043"
     }
 }
