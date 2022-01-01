@@ -1,23 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/c464ef1e8a",
+        "cast_branch": "CVRs/0051/0b136c1be9",
         "choices": [
             {
-                "name": "Yoda",
+                "name": "A A",
                 "party": "Circle Party"
             },
             {
-                "name": "Anakin Skywalker",
+                "name": "B B",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "US president",
+        "name": "state representative",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0000"
+        "uid": "0051"
     }
 }
