@@ -1,1 +1,25 @@
-kKzJWetFw+ZKyzXmFhE9f7zK84sVpLO72YyHqE5vMQcYZNGms7gRfBF0hTj43lNj
+{
+    "CVR": {
+        "cast_branch": "CVRs/0011/5f5f60115d",
+        "choices": [
+            {
+                "name": "Fifteen Sixteen",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Seventeen Eighteen",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 2,
+        "name": "state representative",
+        "selection": [
+            0,
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0011",
+        "write-in": true
+    }
+}
