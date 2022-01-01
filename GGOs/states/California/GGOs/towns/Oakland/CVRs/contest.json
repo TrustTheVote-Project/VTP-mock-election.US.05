@@ -1,17 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0055/ceb858ecca",
+        "cast_branch": "CVRs/0051/3bf706d53a",
         "choices": [
-            true,
-            false
+            {
+                "name": "A A",
+                "party": "Circle Party"
+            },
+            {
+                "name": "B B",
+                "party": "Triangle Party"
+            }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "Question 1 - school budget override",
+        "name": "state representative",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0055"
+        "uid": "0051"
     }
 }
