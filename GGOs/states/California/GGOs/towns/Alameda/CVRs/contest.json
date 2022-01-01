@@ -1,23 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0008/e1e5e5122b",
+        "cast_branch": "CVRs/0000/01d10f89a9",
         "choices": [
             {
-                "name": "Hans Solo",
-                "party": "Triangle Party"
+                "name": "Yoda",
+                "party": "Circle Party"
             },
             {
-                "name": "Leia Organa",
-                "party": "Rectangle Party"
+                "name": "Anakin Skywalker",
+                "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
+        "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "Park Ranger",
+        "name": "US president",
         "selection": [
-            1
+            0
         ],
         "tally": "plurality",
-        "uid": "0008"
+        "uid": "0000"
     }
 }
