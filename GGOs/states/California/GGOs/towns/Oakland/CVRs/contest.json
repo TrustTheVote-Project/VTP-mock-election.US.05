@@ -1,1 +1,23 @@
-z5yST9WBQgh52nqnf0g4nJd8fBZenXzhFNnjN+gk8fhKpoiBdnFPk3X+8P44p/7C
+{
+    "CVR": {
+        "cast_branch": "CVRs/0054/06d88f9e0f",
+        "choices": [
+            "asd asd",
+            "qwe qwe",
+            "ert ert",
+            "rty rty",
+            "fgh fgh",
+            "tyu tyu"
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 3,
+        "name": "school board",
+        "selection": [
+            1,
+            3,
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0054"
+    }
+}
