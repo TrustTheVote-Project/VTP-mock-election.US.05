@@ -1,17 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0049/89d86499c3",
+        "cast_branch": "CVRs/0046/9259edea17",
         "choices": [
-            true,
-            false
+            {
+                "name": "Jjj Jjj",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Kkk Kkk",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Lll Lll",
+                "party": "Circle Party"
+            }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
-        "max": 1,
-        "name": "Question 1 - school budget override",
+        "name": "alderman ward 1",
         "selection": [
+            2,
+            0,
             1
         ],
-        "tally": "plurality",
-        "uid": "0049"
+        "tally": "rcv",
+        "uid": "0046"
     }
 }
