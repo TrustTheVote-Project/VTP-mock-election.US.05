@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0052/f9f52c7758",
+        "cast_branch": "CVRs/0052/c0d1f48acd",
         "choices": [
             {
                 "name": "C C",
@@ -15,7 +15,7 @@
         "max": 1,
         "name": "state senate",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
         "uid": "0052"
