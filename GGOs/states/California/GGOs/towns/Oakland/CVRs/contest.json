@@ -1,18 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0056/00d4a12f1e",
+        "cast_branch": "CVRs/0002/40b037fc42",
         "choices": [
-            true,
-            false
+            {
+                "name": "Jan Dodonna",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Beru Whitesun Lars",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "Question 2 - new firehouse land purchase",
+        "name": "governor",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0056",
-        "win-by": "2/3"
+        "uid": "0002"
     }
 }
