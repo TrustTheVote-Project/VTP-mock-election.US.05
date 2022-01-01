@@ -1,1 +1,39 @@
-tMp+ivrA4hxv09w6GJkhJfX9oJMJdi3bPlDlJujbiSZh+FQ1fPkxGyebytYkdQas
+{
+    "CVR": {
+        "cast_branch": "CVRs/0029/993da7311c",
+        "choices": [
+            {
+                "name": "Mon Mothma",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Wullf Yularen",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Plo Koon",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "Qui-Gon Jinn",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Trilla Suduri",
+                "party": "Rectangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "mayor",
+        "selection": [
+            0,
+            4,
+            3,
+            1,
+            2
+        ],
+        "tally": "rcv",
+        "uid": "0029",
+        "write-in": true
+    }
+}
