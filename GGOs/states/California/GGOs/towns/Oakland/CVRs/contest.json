@@ -1,1 +1,27 @@
-xE/R5CiQhDONAo4aq6bz9lztnFC7R/o2swe3c1JRhWkPgsSZdHt3VPb/KxPjyedQ
+{
+    "CVR": {
+        "cast_branch": "CVRs/0062/21d17de96c",
+        "choices": [
+            {
+                "name": "Q Bbb",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "W Ccc",
+                "party": "Circle Party"
+            },
+            {
+                "name": "e Ddd",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "max": 1,
+        "name": "alderman ward 3",
+        "selection": [
+            2
+        ],
+        "tally": "plurality",
+        "uid": "0062"
+    }
+}
