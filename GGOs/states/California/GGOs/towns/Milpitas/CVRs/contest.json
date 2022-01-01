@@ -1,23 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/564c209f7f",
+        "cast_branch": "CVRs/0043/1068869493",
         "choices": [
             {
-                "name": "Jan Dodonna",
+                "name": "Aaa Aaa",
                 "party": "Circle Party"
             },
             {
-                "name": "Beru Whitesun Lars",
+                "name": "Bbb Bbb",
                 "party": "Triangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
         "max": 1,
-        "name": "governor",
+        "name": "state representative",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0002"
+        "uid": "0043"
     }
 }
