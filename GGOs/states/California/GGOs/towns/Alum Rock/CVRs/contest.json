@@ -1,1 +1,18 @@
-6+HLPqOzXWRWeVofnCCXqoi1UmiWUO7Wkv8+PZy7niAZM+sC1qJGIo/OfzDPXNNm
+{
+    "CVR": {
+        "cast_branch": "CVRs/0026/2cb93102de",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "Question 2 - hire a sustainability person",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0026",
+        "win-by": "1/2"
+    }
+}
