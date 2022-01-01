@@ -1,1 +1,28 @@
-p4TENPdu9ko8Z/fm1Uim62tUyemScGLCGGVuX+m4LuS495nJ/hvyBY9X4xEsjYVU
+{
+    "CVR": {
+        "cast_branch": "CVRs/0059/33ee90df5e",
+        "choices": [
+            {
+                "name": "Q One Two",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "W Two Three",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "e Foo Four",
+                "party": "Circle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "name": "alderman ward 2",
+        "selection": [
+            0,
+            2,
+            1
+        ],
+        "tally": "rcv",
+        "uid": "0059"
+    }
+}
