@@ -1,23 +1,26 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/f1ba5e8536",
+        "cast_branch": "CVRs/0059/9c3cb2a86f",
         "choices": [
             {
-                "name": "Jan Dodonna",
-                "party": "Circle Party"
+                "name": "Q One Two",
+                "party": "Rectangle Party"
             },
             {
-                "name": "Beru Whitesun Lars",
+                "name": "W Two Three",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "e Foo Four",
+                "party": "Circle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "governor",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
+        "name": "alderman ward 2",
         "selection": [
             0
         ],
-        "tally": "plurality",
-        "uid": "0002"
+        "tally": "rcv",
+        "uid": "0059"
     }
 }
