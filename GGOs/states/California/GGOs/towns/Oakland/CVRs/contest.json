@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0059/5b02939c5b",
+        "cast_branch": "CVRs/0059/2762ab3326",
         "choices": [
             {
                 "name": "Q One Two",
@@ -18,9 +18,9 @@
         "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
         "name": "alderman ward 2",
         "selection": [
-            2,
             1,
-            0
+            0,
+            2
         ],
         "tally": "rcv",
         "uid": "0059"
