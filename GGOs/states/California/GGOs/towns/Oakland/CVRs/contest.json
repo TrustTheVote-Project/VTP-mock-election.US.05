@@ -1,1 +1,35 @@
-MOMqra5SGznrX5iYjCwxR8IlEnmTzDYQ7jMg44uE7E2aheJcipoQy9NxQDWVDAqU
+{
+    "CVR": {
+        "cast_branch": "CVRs/0053/e6dd5198c6",
+        "choices": [
+            {
+                "name": "E E",
+                "party": "Circle Party"
+            },
+            {
+                "name": "F F",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "G G",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "H H",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "I I",
+                "party": "Pentagon Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 1,
+        "name": "mayor",
+        "selection": [
+            2
+        ],
+        "tally": "plurality",
+        "uid": "0053"
+    }
+}
