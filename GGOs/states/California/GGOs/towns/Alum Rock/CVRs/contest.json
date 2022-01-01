@@ -1,1 +1,28 @@
-mmSFphhSgyvSvTvWTEwVGfb05uSiKvHY0Q9qqkCrPz9OFur8X1sO60p/BoYzBy46
+{
+    "CVR": {
+        "cast_branch": "CVRs/0010/d19efda0d1",
+        "choices": [
+            {
+                "name": "Luke Skywalker",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Padmé Amidala",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Bail Organs",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Santa Clara",
+        "name": "US house",
+        "selection": [
+            2,
+            0,
+            1
+        ],
+        "tally": "rcv",
+        "uid": "0010"
+    }
+}
