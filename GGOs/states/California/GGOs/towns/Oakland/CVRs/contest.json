@@ -1,23 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0052/db475f81d8",
+        "cast_branch": "CVRs/0001/4d2d12811f",
         "choices": [
             {
-                "name": "C C",
+                "name": "Aayla Secura",
                 "party": "Circle Party"
             },
             {
-                "name": "D D",
+                "name": "Dok-Ondar",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "Mace Windu",
+                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
-        "max": 1,
-        "name": "state senate",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
+            1,
+            2,
             0
         ],
-        "tally": "plurality",
-        "uid": "0052"
+        "tally": "rcv",
+        "uid": "0001"
     }
 }
