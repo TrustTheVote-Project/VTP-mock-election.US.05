@@ -1,17 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0065/602ba772c4",
+        "cast_branch": "CVRs/0002/7d3aba3332",
         "choices": [
-            true,
-            false
+            {
+                "name": "Jan Dodonna",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Beru Whitesun Lars",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "Question 3 - paint crosswalks yellow",
+        "name": "governor",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0065"
+        "uid": "0002"
     }
 }
