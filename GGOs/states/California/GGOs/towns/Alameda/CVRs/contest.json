@@ -1,1 +1,28 @@
-bCIryszmgFiWmBQJpqew7mYFcwPMdzMrubwubhBACDyI74hOjRv3N1DHakKL+cPy
+{
+    "CVR": {
+        "cast_branch": "CVRs/0004/beef803485",
+        "choices": [
+            {
+                "name": "Jim Green",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Mary Orange",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Jane Brown",
+                "party": "Rectangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
+        "name": "Park Ranger",
+        "selection": [
+            1,
+            2,
+            0
+        ],
+        "tally": "rcv",
+        "uid": "0004"
+    }
+}
