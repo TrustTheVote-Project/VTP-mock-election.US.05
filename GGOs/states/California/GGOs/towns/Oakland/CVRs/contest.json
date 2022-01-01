@@ -1,17 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0064/724636a316",
+        "cast_branch": "CVRs/0052/2f41d08bdf",
         "choices": [
-            true,
-            false
+            {
+                "name": "C C",
+                "party": "Circle Party"
+            },
+            {
+                "name": "D D",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "Question 2 - paint watertower green",
+        "name": "state senate",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0064"
+        "uid": "0052"
     }
 }
