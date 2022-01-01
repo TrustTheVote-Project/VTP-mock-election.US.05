@@ -1,29 +1,24 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0031/df5b3af407",
+        "cast_branch": "CVRs/0027/3cdcd6e437",
         "choices": [
             {
-                "name": "Depa Billaba",
-                "party": "Rectangle Party"
+                "name": "Owen Lars",
+                "party": "Circle Party"
             },
             {
-                "name": "Five Six",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "Seven Eight",
-                "party": "Rectangle Party"
+                "name": "Luminara Unduli",
+                "party": "Triangle Party"
             }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
-        "name": "alderman ward 2",
+        "max": 1,
+        "name": "state representative",
         "selection": [
-            1,
-            0,
-            2
+            1
         ],
-        "tally": "rcv",
-        "uid": "0031",
+        "tally": "plurality",
+        "uid": "0027",
         "write-in": true
     }
 }
