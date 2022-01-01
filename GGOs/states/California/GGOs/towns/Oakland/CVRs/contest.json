@@ -1,18 +1,21 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/d38f2e44ca",
+        "cast_branch": "CVRs/0054/99fbf2c92b",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            "asd asd",
+            "qwe qwe",
+            "ert ert",
+            "rty rty",
+            "fgh fgh",
+            "tyu tyu"
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
-        "max": 1,
-        "name": "County Clerk",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "max": 3,
+        "name": "school board",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0003"
+        "uid": "0054"
     }
 }
