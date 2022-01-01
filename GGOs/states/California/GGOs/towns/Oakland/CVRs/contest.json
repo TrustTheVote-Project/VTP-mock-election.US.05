@@ -1,17 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0065/7668846a27",
+        "cast_branch": "CVRs/0061/216c020425",
         "choices": [
             true,
             false
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
         "max": 1,
-        "name": "Question 3 - paint crosswalks yellow",
+        "name": "Question 2 - paint water tower red",
         "selection": [
             0
         ],
         "tally": "plurality",
-        "uid": "0065"
+        "uid": "0061",
+        "win-by": "2/3"
     }
 }
