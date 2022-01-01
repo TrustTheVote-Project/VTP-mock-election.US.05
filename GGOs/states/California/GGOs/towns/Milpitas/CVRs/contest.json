@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0010/fa4871124b",
+        "cast_branch": "CVRs/0048/fd415af424",
         "choices": [
             {
-                "name": "Luke Skywalker",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Padmé Amidala",
+                "name": "Ppp ppp",
                 "party": "Rectangle Party"
             },
             {
-                "name": "Bail Organs",
-                "party": "Triangle Party"
+                "name": "Qqq Qqq",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "Rrr Rrr",
+                "party": "Circle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Santa Clara",
-        "name": "US house",
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "name": "alderman ward 3",
         "selection": [
             0,
-            1,
-            2
+            2,
+            1
         ],
         "tally": "rcv",
-        "uid": "0010"
+        "uid": "0048"
     }
 }
