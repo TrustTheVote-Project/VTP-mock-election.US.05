@@ -1,1 +1,23 @@
-tPDAIh9DzkbMMyoNhdKPCSSwJzUq1HV6RMPwQWFieyY2iOXleHaic2GQ+nw+Us/X
+{
+    "CVR": {
+        "cast_branch": "CVRs/0019/105032121e",
+        "choices": [
+            {
+                "name": "71 72",
+                "party": "Circle Party"
+            },
+            {
+                "name": "73 74",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "state representative",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0019"
+    }
+}
