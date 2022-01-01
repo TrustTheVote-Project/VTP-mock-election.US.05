@@ -1,1 +1,17 @@
-Nom9Fb3EbMZ4rpaP2D8QbUvwbTdukFg6T/xhpl3EhMrSTbU25ZWfe4eCeB8mzBEe
+{
+    "CVR": {
+        "cast_branch": "CVRs/0063/c42dcb2774",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "max": 1,
+        "name": "Question 1 - paint firehydrants green",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0063"
+    }
+}
