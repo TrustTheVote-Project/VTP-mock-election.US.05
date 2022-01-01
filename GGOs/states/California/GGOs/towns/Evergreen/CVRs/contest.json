@@ -1,28 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0039/3cd29ee09a",
+        "cast_branch": "CVRs/0042/ff352a95d0",
         "choices": [
-            {
-                "name": "55 56",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "57 58",
-                "party": "Circle Party"
-            },
-            {
-                "name": "59 60",
-                "party": "Triangle Party"
-            }
+            true,
+            false
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Evergreen",
-        "name": "alderman ward 2",
+        "max": 1,
+        "name": "Question 2 - new firehouse land purchase",
         "selection": [
-            2,
-            1,
-            0
+            1
         ],
-        "tally": "rcv",
-        "uid": "0039"
+        "tally": "plurality",
+        "uid": "0042",
+        "win-by": "2/3"
     }
 }
