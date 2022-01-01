@@ -1,23 +1,35 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0052/d216784fa9",
+        "cast_branch": "CVRs/0053/6ca561492e",
         "choices": [
             {
-                "name": "C C",
+                "name": "E E",
                 "party": "Circle Party"
             },
             {
-                "name": "D D",
+                "name": "F F",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "G G",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "H H",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "I I",
+                "party": "Pentagon Party"
             }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "state senate",
+        "name": "mayor",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0052"
+        "uid": "0053"
     }
 }
