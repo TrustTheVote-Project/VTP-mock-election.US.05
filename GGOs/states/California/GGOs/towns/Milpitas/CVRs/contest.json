@@ -1,1 +1,28 @@
-Ah1mEQ/PQC89No44PSk8iqJk85zDLEiK3O/3Yo8gItdFBcjEWM/J4ip7MSOsjZBu
+{
+    "CVR": {
+        "cast_branch": "CVRs/0047/14d8e8e468",
+        "choices": [
+            {
+                "name": "Mmm Mmm",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Nnn Nnn",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Ooo Ooo",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Milpitas",
+        "name": "alderman ward 2",
+        "selection": [
+            0,
+            2,
+            1
+        ],
+        "tally": "rcv",
+        "uid": "0047"
+    }
+}
