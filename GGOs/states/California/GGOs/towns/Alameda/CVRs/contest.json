@@ -1,18 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/867d015b7b",
+        "cast_branch": "CVRs/0018/72598056a0",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
         "max": 1,
-        "name": "County Clerk",
+        "name": "Question 2 - new firehouse land purchase",
         "selection": [
-            2
+            0
         ],
         "tally": "plurality",
-        "uid": "0003"
+        "uid": "0018",
+        "win-by": "2/3"
     }
 }
