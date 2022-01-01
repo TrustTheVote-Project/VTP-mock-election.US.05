@@ -1,23 +1,39 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/a532b0a908",
+        "cast_branch": "CVRs/0029/995b351797",
         "choices": [
             {
-                "name": "Yoda",
+                "name": "Mon Mothma",
                 "party": "Circle Party"
             },
             {
-                "name": "Anakin Skywalker",
+                "name": "Wullf Yularen",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "Plo Koon",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "Qui-Gon Jinn",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "Trilla Suduri",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "US president",
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "mayor",
         "selection": [
-            1
+            4,
+            0,
+            1,
+            3,
+            2
         ],
-        "tally": "plurality",
-        "uid": "0000"
+        "tally": "rcv",
+        "uid": "0029",
+        "write-in": true
     }
 }
