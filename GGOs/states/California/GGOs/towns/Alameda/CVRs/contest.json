@@ -1,28 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0009/ebc093b79b",
+        "cast_branch": "CVRs/0005/a2df0eacfe",
         "choices": [
             {
-                "name": "Nien Nunb",
+                "name": "Hey There",
                 "party": "Circle Party"
             },
             {
-                "name": "Chelli Lona Aphra",
+                "name": "Ta Da",
                 "party": "Triangle Party"
             },
             {
-                "name": "Hondo Ohnaka",
+                "name": "So Ho",
                 "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
-        "max": 2,
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
         "name": "Park Administrator",
         "selection": [
-            0,
-            1
+            1,
+            2,
+            0
         ],
-        "tally": "plurality",
-        "uid": "0009"
+        "tally": "rcv",
+        "uid": "0005"
     }
 }
