@@ -1,18 +1,28 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/336ee5e734",
+        "cast_branch": "CVRs/0014/73e219a653",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            {
+                "name": "3 4",
+                "party": "Circle Party"
+            },
+            {
+                "name": "5 6",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "7 8",
+                "party": "Circle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
-        "max": 1,
-        "name": "County Clerk",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "alderman ward 1",
         "selection": [
+            0,
+            2,
             1
         ],
-        "tally": "plurality",
-        "uid": "0003"
+        "tally": "rcv",
+        "uid": "0014"
     }
 }
