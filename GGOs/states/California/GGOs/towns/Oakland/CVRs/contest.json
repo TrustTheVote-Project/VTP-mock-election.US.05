@@ -1,1 +1,17 @@
-GGW7+X5eD4hVHe/wdkNJb9KuQj9rzuIh/4+Pil+xTGTMEThL3UwsNaHiqPeL2VY1
+{
+    "CVR": {
+        "cast_branch": "CVRs/0064/858c4ac49f",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "max": 1,
+        "name": "Question 2 - paint watertower green",
+        "selection": [
+            0
+        ],
+        "tally": "plurality",
+        "uid": "0064"
+    }
+}
