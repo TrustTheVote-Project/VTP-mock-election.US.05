@@ -1,17 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0055/cbd1d33018",
+        "cast_branch": "CVRs/0060/58e0c8e4d7",
         "choices": [
             true,
             false
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 2",
         "max": 1,
-        "name": "Question 1 - school budget override",
+        "name": "Question 1 - paint firehydrants red",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0055"
+        "uid": "0060"
     }
 }
