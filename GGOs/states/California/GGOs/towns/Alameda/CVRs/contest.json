@@ -1,28 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0004/316783acc4",
+        "cast_branch": "CVRs/0003/aed2041088",
         "choices": [
-            {
-                "name": "Jim Green",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Mary Orange",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Jane Brown",
-                "party": "Rectangle Party"
-            }
+            "Roger Rabbit",
+            "Huckleberry Finn",
+            "Captain Kirk"
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "max": 1,
+        "name": "County Clerk",
         "selection": [
-            1,
-            2,
             0
         ],
-        "tally": "rcv",
-        "uid": "0004"
+        "tally": "plurality",
+        "uid": "0003"
     }
 }
