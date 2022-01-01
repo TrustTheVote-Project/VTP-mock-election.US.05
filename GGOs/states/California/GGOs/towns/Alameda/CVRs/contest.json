@@ -1,33 +1,36 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/757bdc7726",
+        "cast_branch": "CVRs/0012/e2073f0d0a",
         "choices": [
             {
-                "name": "dog",
+                "name": "Nineteen Twenty",
                 "party": "Circle Party"
             },
             {
-                "name": "cat",
-                "party": "Rectangle Party"
-            },
-            {
-                "name": "horse",
+                "name": "Twentyone Twentytwo",
                 "party": "Triangle Party"
             },
             {
-                "name": "rat",
+                "name": "Twentythree Twentyfour",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Twentyfive",
                 "party": "Pentagon Party"
+            },
+            {
+                "name": "Twentysix",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "max": 2,
+        "name": "state senate",
         "selection": [
-            0,
-            1,
-            3,
-            2
+            4,
+            3
         ],
-        "tally": "rcv",
-        "uid": "0006"
+        "tally": "plurality",
+        "uid": "0012"
     }
 }
