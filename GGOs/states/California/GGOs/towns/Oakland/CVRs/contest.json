@@ -1,28 +1,27 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/5128006988",
+        "cast_branch": "CVRs/0062/aca6d88b2e",
         "choices": [
             {
-                "name": "Aayla Secura",
+                "name": "Q Bbb",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "W Ccc",
                 "party": "Circle Party"
             },
             {
-                "name": "Dok-Ondar",
+                "name": "e Ddd",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Mace Windu",
-                "party": "Pentagon Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 3",
+        "max": 1,
+        "name": "alderman ward 3",
         "selection": [
-            2,
-            0,
             1
         ],
-        "tally": "rcv",
-        "uid": "0001"
+        "tally": "plurality",
+        "uid": "0062"
     }
 }
