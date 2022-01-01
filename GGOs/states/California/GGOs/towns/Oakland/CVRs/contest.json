@@ -1,18 +1,35 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/7055ac9818",
+        "cast_branch": "CVRs/0053/0f82f80160",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            {
+                "name": "E E",
+                "party": "Circle Party"
+            },
+            {
+                "name": "F F",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "G G",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "H H",
+                "party": "Rectangle Party"
+            },
+            {
+                "name": "I I",
+                "party": "Pentagon Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "County Clerk",
+        "name": "mayor",
         "selection": [
-            1
+            2
         ],
         "tally": "plurality",
-        "uid": "0003"
+        "uid": "0053"
     }
 }
