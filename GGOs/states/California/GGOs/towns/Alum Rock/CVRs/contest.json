@@ -1,28 +1,35 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0010/cc724b9cb2",
+        "cast_branch": "CVRs/0021/d521c18d5a",
         "choices": [
             {
-                "name": "Luke Skywalker",
+                "name": "79 80",
                 "party": "Circle Party"
             },
             {
-                "name": "Padmé Amidala",
-                "party": "Rectangle Party"
+                "name": "81 82",
+                "party": "Triangle Party"
             },
             {
-                "name": "Bail Organs",
+                "name": "83 84",
                 "party": "Triangle Party"
+            },
+            {
+                "name": "85 86",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "87 88",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Santa Clara",
-        "name": "US house",
+        "ggo": "GGOs/states/California/GGOs/towns/Alum Rock",
+        "max": 1,
+        "name": "mayor",
         "selection": [
-            1,
-            0,
             2
         ],
-        "tally": "rcv",
-        "uid": "0010"
+        "tally": "plurality",
+        "uid": "0021"
     }
 }
