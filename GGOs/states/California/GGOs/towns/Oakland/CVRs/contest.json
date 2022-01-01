@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/81fa18d95d",
+        "cast_branch": "CVRs/0000/c1c9428299",
         "choices": [
             {
                 "name": "Yoda",
@@ -15,7 +15,7 @@
         "max": 1,
         "name": "US president",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
         "uid": "0000"
