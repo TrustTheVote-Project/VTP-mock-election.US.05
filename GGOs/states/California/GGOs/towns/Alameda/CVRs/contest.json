@@ -1,28 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/8cce0b296f",
+        "cast_branch": "CVRs/0002/a1ef8c0ab8",
         "choices": [
             {
-                "name": "Hey There",
+                "name": "Jan Dodonna",
                 "party": "Circle Party"
             },
             {
-                "name": "Ta Da",
+                "name": "Beru Whitesun Lars",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "So Ho",
-                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone A",
-        "name": "Park Administrator",
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "governor",
         "selection": [
-            2,
-            0,
-            1
+            0
         ],
-        "tally": "rcv",
-        "uid": "0005"
+        "tally": "plurality",
+        "uid": "0002"
     }
 }
