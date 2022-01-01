@@ -1,18 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/da8fcec916",
+        "cast_branch": "CVRs/0055/663c36b03e",
         "choices": [
-            "Roger Rabbit",
-            "Huckleberry Finn",
-            "Captain Kirk"
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "ggo": "GGOs/states/California/GGOs/towns/Oakland",
         "max": 1,
-        "name": "County Clerk",
+        "name": "Question 1 - school budget override",
         "selection": [
-            0
+            1
         ],
         "tally": "plurality",
-        "uid": "0003"
+        "uid": "0055"
     }
 }
