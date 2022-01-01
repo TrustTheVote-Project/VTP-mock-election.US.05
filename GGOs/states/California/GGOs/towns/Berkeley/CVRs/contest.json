@@ -1,18 +1,24 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0033/6fdedc04b6",
+        "cast_branch": "CVRs/0028/ff47a87761",
         "choices": [
-            true,
-            false
+            {
+                "name": "Tarra Vizsla",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Sabine Wren",
+                "party": "Triangle Party"
+            }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
         "max": 1,
-        "name": "Question 1 - school budget override",
+        "name": "state senate",
         "selection": [
             1
         ],
         "tally": "plurality",
-        "uid": "0033",
-        "win-by": "2/3"
+        "uid": "0028",
+        "write-in": true
     }
 }
