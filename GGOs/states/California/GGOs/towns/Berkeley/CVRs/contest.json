@@ -1,1 +1,18 @@
-lq75Yzphw5g+Q7plnoQcsA1gufm2a/dmYL5vOvNumYwFfvUqg7oYJU4cZfb0Z6Q6
+{
+    "CVR": {
+        "cast_branch": "CVRs/0034/dfc24e560a",
+        "choices": [
+            true,
+            false
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "max": 1,
+        "name": "Question 2 - new firehouse land purchase",
+        "selection": [
+            1
+        ],
+        "tally": "plurality",
+        "uid": "0034",
+        "win-by": "2/3"
+    }
+}
