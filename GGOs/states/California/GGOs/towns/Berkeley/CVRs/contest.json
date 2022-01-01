@@ -1,33 +1,29 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/e480dce5fd",
+        "cast_branch": "CVRs/0031/8ac7ab41c4",
         "choices": [
             {
-                "name": "dog",
-                "party": "Circle Party"
-            },
-            {
-                "name": "cat",
+                "name": "Depa Billaba",
                 "party": "Rectangle Party"
             },
             {
-                "name": "horse",
-                "party": "Triangle Party"
+                "name": "Five Six",
+                "party": "Rectangle Party"
             },
             {
-                "name": "rat",
-                "party": "Pentagon Party"
+                "name": "Seven Eight",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
-        "name": "Park Ranger",
+        "ggo": "GGOs/states/California/GGOs/towns/Berkeley",
+        "name": "alderman ward 2",
         "selection": [
             0,
             2,
-            1,
-            3
+            1
         ],
         "tally": "rcv",
-        "uid": "0006"
+        "uid": "0031",
+        "write-in": true
     }
 }
