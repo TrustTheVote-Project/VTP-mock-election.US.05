@@ -1,0 +1,21 @@
+---
+contests:
+- Park Ranger:
+    tally: rcv
+    choices:
+    - name: Jim Green
+      party: Circle Party
+    - name: Mary Orange
+      party: Triangle Party
+    - name: Jane Brown
+      party: Rectangle Party
+- Park Administrator:
+    tally: rcv
+    choices:
+    - name: Hey There
+      party: Circle Party
+    - name: Ta Da
+      party: Triangle Party
+    - name: So Ho
+      party: Rectangle Party
+submodules: []

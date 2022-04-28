@@ -1,0 +1,79 @@
+---
+contests:
+- state representative:
+    tally: plurality
+    choices:
+    - name: Owen Lars
+      party: Circle Party
+    - name: Luminara Unduli
+      party: Triangle Party
+    write-in: yes
+- state senate:
+    tally: plurality
+    choices:
+    - name: Tarra Vizsla
+      party: Circle Party
+    - name: Sabine Wren
+      party: Triangle Party
+    write-in: True
+- mayor:
+    tally: rcv
+    write-in: yes
+    choices:
+    - name: Mon Mothma
+      party: Circle Party
+    - name: Wullf Yularen
+      party: Triangle Party
+    - name: Plo Koon
+      party: Pentagon Party
+    - name: Qui-Gon Jinn
+      party: Rectangle Party
+    - name: Trilla Suduri
+      party: Rectangle Party
+- alderman ward 1:
+    tally: rcv
+    choices:
+    - name: Captain Grey
+      party: Rectangle Party
+    - name: One Two
+      party: Triangle Party
+    - name: Three Four
+      party: Triangle Party
+    write-in: yes
+- alderman ward 2:
+    tally: rcv
+    choices:
+    - name: Depa Billaba
+      party: Rectangle Party
+    - name: Five Six
+      party: Rectangle Party
+    - name: Seven Eight
+      party: Rectangle Party
+    write-in: yes
+- alderman ward 3:
+    tally: rcv
+    choices:
+    - name: Nine Ten
+      party: Rectangle Party
+    - name: Eleven Twelve
+      party: Pentagon Party
+    - name: Thirteen Fourteen
+      party: Pentagon Party
+    write-in: yes
+- Question 1 - school budget override:
+    tally: plurality
+    win-by: 2/3
+    choices:
+    - yes
+    - no
+- Question 2 - new firehouse land purchase:
+    tally: plurality
+    win-by: 2/3
+    choices:
+    - yes
+    - no
+voting centers:
+- Berkeley Senior Center:
+    street: 4321 Salem St
+    id: 000010
+submodules: []

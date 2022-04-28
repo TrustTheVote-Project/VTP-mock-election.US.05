@@ -1,0 +1,20 @@
+---
+contests:
+- Park Ranger:
+    tally: plurality
+    choices:
+    - name: Hans Solo
+      party: Triangle Party
+    - name: Leia Organa
+      party: Rectangle Party
+- Park Administrator:
+    tally: plurality
+    max: 2
+    choices:
+    - name: Nien Nunb
+      party: Circle Party
+    - name: Chelli Lona Aphra
+      party: Triangle Party
+    - name: Hondo Ohnaka
+      party: Rectangle Party
+submodules: []

@@ -1,0 +1,21 @@
+---
+contests:
+- alderman ward 1:
+    tally: rcv
+    choices:
+    - name: QQ One
+      party: Rectangle Party
+    - name: WW Two
+      party: Rectangle Party
+    - name: ee Foo
+      party: Rectangle Party
+- Question 1 - paint firehydrants blue:
+    tally: plurality
+    choices:
+    - yes
+    - no
+voting centers:
+- Oakland Town Center Building 1:
+    address: 111 Bar Street
+    id: 000100
+submodules: []

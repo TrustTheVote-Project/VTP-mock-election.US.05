@@ -1,0 +1,12 @@
+---
+contests:
+- US house:
+    tally: rcv
+    choices:
+    - name: Luke Skywalker
+      party: Circle Party
+    - name: Padmé Amidala
+      party: Rectangle Party
+    - name: Bail Organs
+      party: Triangle Party
+submodules: []

@@ -1,0 +1,76 @@
+---
+contests:
+- state representative:
+    tally: plurality
+    write-in: yes
+    choices:
+    - name: 31 32
+      party: Circle Party
+    - name: 33 34
+      party: Triangle Party
+- state senate:
+    tally: plurality
+    choices:
+    - name: 35 36
+      party: Circle Party
+    - name: 37 38
+      party: Triangle Party
+    write-in: yes
+- mayor:
+    tally: rcv
+    write-in: yes
+    choices:
+    - name: 39 40
+      party: Circle Party
+    - name: 41 42
+      party: Triangle Party
+    - name: 43 44
+      party: Triangle Party
+    - name: 45 56
+      party: Rectangle Party
+    - name: 47 48
+      party: Rectangle Party
+- alderman ward 1:
+    tally: rcv
+    choices:
+    - name: 49 50
+      party: Rectangle Party
+    - name: 51 52
+      party: Circle Party
+    - name: 53 54
+      party: Triangle Party
+- alderman ward 2:
+    tally: rcv
+    choices:
+    - name: 55 56
+      party: Rectangle Party
+    - name: 57 58
+      party: Circle Party
+    - name: 59 60
+      party: Triangle Party
+- alderman ward 3:
+    tally: rcv
+    write-in: yes
+    choices:
+    - name: 61 62
+      party: Rectangle Party
+    - name: 63 64
+      party: Circle Party
+    - name: 65 66
+      party: Triangle Party
+- Question 1 - school budget override:
+    tally: plurality
+    choices:
+    - yes
+    - no
+- Question 2 - new firehouse land purchase:
+    tally: plurality
+    win-by: 2/3
+    choices:
+    - yes
+    - no
+voting centers:
+- Evergreen Senior Center:
+    address: 4321 Salem St
+    id: 000001
+submodules: []

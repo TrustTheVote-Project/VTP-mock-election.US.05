@@ -1,0 +1,25 @@
+---
+contests:
+- Park Ranger:
+    tally: rcv
+    choices:
+    - name: dog
+      party: Circle Party
+    - name: cat
+      party: Rectangle Party
+    - name: horse
+      party: Triangle Party
+    - name: rat
+      party: Pentagon Party
+- Park Administrator:
+    tally: rcv
+    choices:
+    - name: One
+      party: Circle Party
+    - name: Two
+      party: Triangle Party
+    - name: Three
+      party: Rectangle Party
+    - name: Four
+      party: Pentagon Party
+submodules: []

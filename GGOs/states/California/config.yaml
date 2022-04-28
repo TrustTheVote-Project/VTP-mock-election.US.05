@@ -1,0 +1,37 @@
+---
+Contests:
+- US president:
+    tally: plurality
+    choices:
+    - name: Yoda
+      party: Circle Party
+    - name: Anakin Skywalker
+      party: Triangle Party
+- US senate:
+    tally: rcv
+    choices:
+    - name: Aayla Secura
+      party: Circle Party
+    - name: Dok-Ondar
+      party: Triangle Party
+    - name: Mace Windu
+      party: Pentagon Party
+- governor:
+    tally: plurality
+    choices:
+    - name: Jan Dodonna
+      party: Circle Party
+    - name: Beru Whitesun Lars
+      party: Triangle Party
+GGOs:
+  counties:
+  - Alameda
+  - Santa Clara
+  towns:
+  - Alameda
+  - Alum Rock
+  - Berkeley
+  - Evergreen
+  - Milpitas
+  - Oakland
+submodules: []
