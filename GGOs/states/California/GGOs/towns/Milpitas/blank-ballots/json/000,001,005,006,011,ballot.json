@@ -1,0 +1,271 @@
+{
+    "active_ggos": [
+        ".",
+        "GGOs/states/California",
+        "GGOs/states/California/GGOs/counties/Santa Clara",
+        "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C",
+        "GGOs/states/California/GGOs/towns/Milpitas"
+    ],
+    "ballot_node": "GGOs/states/California/GGOs/towns/Milpitas",
+    "ballot_subdir": "GGOs/states/California/GGOs/towns/Milpitas",
+    "contests": {
+        "GGOs/states/California": [
+            {
+                "US president": {
+                    "choices": [
+                        {
+                            "name": "Yoda",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Anakin Skywalker",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0000"
+                }
+            },
+            {
+                "US senate": {
+                    "choices": [
+                        {
+                            "name": "Aayla Secura",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Dok-Ondar",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Mace Windu",
+                            "party": "Pentagon Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0001"
+                }
+            },
+            {
+                "governor": {
+                    "choices": [
+                        {
+                            "name": "Jan Dodonna",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Beru Whitesun Lars",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0002"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone C": [
+            {
+                "Park Ranger": {
+                    "choices": [
+                        {
+                            "name": "Hans Solo",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Leia Organa",
+                            "party": "Rectangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0008"
+                }
+            },
+            {
+                "Park Administrator": {
+                    "choices": [
+                        {
+                            "name": "Nien Nunb",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Chelli Lona Aphra",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Hondo Ohnaka",
+                            "party": "Rectangle Party"
+                        }
+                    ],
+                    "max": 2,
+                    "tally": "plurality",
+                    "uid": "0009"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/counties/Santa Clara": [
+            {
+                "US house": {
+                    "choices": [
+                        {
+                            "name": "Luke Skywalker",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Padmé Amidala",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Bail Organs",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0010"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/towns/Milpitas": [
+            {
+                "state representative": {
+                    "choices": [
+                        {
+                            "name": "Aaa Aaa",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Bbb Bbb",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0043"
+                }
+            },
+            {
+                "state senate": {
+                    "choices": [
+                        {
+                            "name": "Ccc Ccc",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Ddd Ddd",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0044"
+                }
+            },
+            {
+                "mayor": {
+                    "choices": [
+                        {
+                            "name": "Eee Eee",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Fff Fff",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Ggg Ggg",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Hhh Hhh",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Iii Iii",
+                            "party": "Pentagon Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0045"
+                }
+            },
+            {
+                "alderman ward 1": {
+                    "choices": [
+                        {
+                            "name": "Jjj Jjj",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Kkk Kkk",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Lll Lll",
+                            "party": "Circle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0046"
+                }
+            },
+            {
+                "alderman ward 2": {
+                    "choices": [
+                        {
+                            "name": "Mmm Mmm",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Nnn Nnn",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Ooo Ooo",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0047"
+                }
+            },
+            {
+                "alderman ward 3": {
+                    "choices": [
+                        {
+                            "name": "Ppp ppp",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Qqq Qqq",
+                            "party": "Pentagon Party"
+                        },
+                        {
+                            "name": "Rrr Rrr",
+                            "party": "Circle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0048"
+                }
+            },
+            {
+                "Question 1 - school budget override": {
+                    "choices": [
+                        true,
+                        false
+                    ],
+                    "tally": "plurality",
+                    "uid": "0049"
+                }
+            },
+            {
+                "Question 2 - new firehouse land purchase": {
+                    "choices": [
+                        true,
+                        false
+                    ],
+                    "tally": "plurality",
+                    "uid": "0050",
+                    "win-by": "3/5"
+                }
+            }
+        ]
+    }
+}

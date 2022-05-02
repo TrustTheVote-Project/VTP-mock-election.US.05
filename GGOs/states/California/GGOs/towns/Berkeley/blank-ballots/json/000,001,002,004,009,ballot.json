@@ -1,0 +1,280 @@
+{
+    "active_ggos": [
+        ".",
+        "GGOs/states/California",
+        "GGOs/states/California/GGOs/counties/Alameda",
+        "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B",
+        "GGOs/states/California/GGOs/towns/Berkeley"
+    ],
+    "ballot_node": "GGOs/states/California/GGOs/towns/Berkeley",
+    "ballot_subdir": "GGOs/states/California/GGOs/towns/Berkeley",
+    "contests": {
+        "GGOs/states/California": [
+            {
+                "US president": {
+                    "choices": [
+                        {
+                            "name": "Yoda",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Anakin Skywalker",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0000"
+                }
+            },
+            {
+                "US senate": {
+                    "choices": [
+                        {
+                            "name": "Aayla Secura",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Dok-Ondar",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Mace Windu",
+                            "party": "Pentagon Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0001"
+                }
+            },
+            {
+                "governor": {
+                    "choices": [
+                        {
+                            "name": "Jan Dodonna",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Beru Whitesun Lars",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0002"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/counties/Alameda": [
+            {
+                "County Clerk": {
+                    "choices": [
+                        "Roger Rabbit",
+                        "Huckleberry Finn",
+                        "Captain Kirk"
+                    ],
+                    "tally": "plurality",
+                    "uid": "0003"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/counties/Alameda/GGOs/Parks and Recreation/Zone B": [
+            {
+                "Park Ranger": {
+                    "choices": [
+                        {
+                            "name": "dog",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "cat",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "horse",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "rat",
+                            "party": "Pentagon Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0006"
+                }
+            },
+            {
+                "Park Administrator": {
+                    "choices": [
+                        {
+                            "name": "One",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Two",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Three",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Four",
+                            "party": "Pentagon Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0007"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/towns/Berkeley": [
+            {
+                "state representative": {
+                    "choices": [
+                        {
+                            "name": "Owen Lars",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Luminara Unduli",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0027",
+                    "write-in": true
+                }
+            },
+            {
+                "state senate": {
+                    "choices": [
+                        {
+                            "name": "Tarra Vizsla",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Sabine Wren",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0028",
+                    "write-in": true
+                }
+            },
+            {
+                "mayor": {
+                    "choices": [
+                        {
+                            "name": "Mon Mothma",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Wullf Yularen",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Plo Koon",
+                            "party": "Pentagon Party"
+                        },
+                        {
+                            "name": "Qui-Gon Jinn",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Trilla Suduri",
+                            "party": "Rectangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0029",
+                    "write-in": true
+                }
+            },
+            {
+                "alderman ward 1": {
+                    "choices": [
+                        {
+                            "name": "Captain Grey",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "One Two",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Three Four",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0030",
+                    "write-in": true
+                }
+            },
+            {
+                "alderman ward 2": {
+                    "choices": [
+                        {
+                            "name": "Depa Billaba",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Five Six",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Seven Eight",
+                            "party": "Rectangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0031",
+                    "write-in": true
+                }
+            },
+            {
+                "alderman ward 3": {
+                    "choices": [
+                        {
+                            "name": "Nine Ten",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Eleven Twelve",
+                            "party": "Pentagon Party"
+                        },
+                        {
+                            "name": "Thirteen Fourteen",
+                            "party": "Pentagon Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0032",
+                    "write-in": true
+                }
+            },
+            {
+                "Question 1 - school budget override": {
+                    "choices": [
+                        true,
+                        false
+                    ],
+                    "tally": "plurality",
+                    "uid": "0033",
+                    "win-by": "2/3"
+                }
+            },
+            {
+                "Question 2 - new firehouse land purchase": {
+                    "choices": [
+                        true,
+                        false
+                    ],
+                    "tally": "plurality",
+                    "uid": "0034",
+                    "win-by": "2/3"
+                }
+            }
+        ]
+    }
+}

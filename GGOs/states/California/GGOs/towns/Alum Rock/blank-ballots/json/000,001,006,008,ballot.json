@@ -1,0 +1,232 @@
+{
+    "active_ggos": [
+        ".",
+        "GGOs/states/California",
+        "GGOs/states/California/GGOs/counties/Santa Clara",
+        "GGOs/states/California/GGOs/towns/Alum Rock"
+    ],
+    "ballot_node": "GGOs/states/California/GGOs/towns/Alum Rock",
+    "ballot_subdir": "GGOs/states/California/GGOs/towns/Alum Rock",
+    "contests": {
+        "GGOs/states/California": [
+            {
+                "US president": {
+                    "choices": [
+                        {
+                            "name": "Yoda",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Anakin Skywalker",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0000"
+                }
+            },
+            {
+                "US senate": {
+                    "choices": [
+                        {
+                            "name": "Aayla Secura",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Dok-Ondar",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Mace Windu",
+                            "party": "Pentagon Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0001"
+                }
+            },
+            {
+                "governor": {
+                    "choices": [
+                        {
+                            "name": "Jan Dodonna",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Beru Whitesun Lars",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0002"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/counties/Santa Clara": [
+            {
+                "US house": {
+                    "choices": [
+                        {
+                            "name": "Luke Skywalker",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Padmé Amidala",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Bail Organs",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0010"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/towns/Alum Rock": [
+            {
+                "state representative": {
+                    "choices": [
+                        {
+                            "name": "71 72",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "73 74",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0019"
+                }
+            },
+            {
+                "state senate": {
+                    "choices": [
+                        {
+                            "name": "75 76",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "77 78",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0020"
+                }
+            },
+            {
+                "mayor": {
+                    "choices": [
+                        {
+                            "name": "79 80",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "81 82",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "83 84",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "85 86",
+                            "party": "Pentagon Party"
+                        },
+                        {
+                            "name": "87 88",
+                            "party": "Rectangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0021"
+                }
+            },
+            {
+                "alderman ward 1": {
+                    "choices": [
+                        {
+                            "name": "89 90",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "91 92",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "93 94",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0022"
+                }
+            },
+            {
+                "alderman ward 2": {
+                    "choices": [
+                        {
+                            "name": "95 96",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "97 98",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "99 100",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0023"
+                }
+            },
+            {
+                "alderman ward 3": {
+                    "choices": [
+                        {
+                            "name": "101 102",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "103 104",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "105 106",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0024"
+                }
+            },
+            {
+                "Question 1 - accept Pine Street as an official town road": {
+                    "choices": [
+                        true,
+                        false
+                    ],
+                    "tally": "plurality",
+                    "uid": "0025",
+                    "win-by": "1/2"
+                }
+            },
+            {
+                "Question 2 - hire a sustainability person": {
+                    "choices": [
+                        true,
+                        false
+                    ],
+                    "tally": "plurality",
+                    "uid": "0026",
+                    "win-by": "1/2"
+                }
+            }
+        ]
+    }
+}

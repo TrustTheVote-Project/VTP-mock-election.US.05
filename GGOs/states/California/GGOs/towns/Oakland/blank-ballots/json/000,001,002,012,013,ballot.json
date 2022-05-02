@@ -1,0 +1,210 @@
+{
+    "active_ggos": [
+        ".",
+        "GGOs/states/California",
+        "GGOs/states/California/GGOs/counties/Alameda",
+        "GGOs/states/California/GGOs/towns/Oakland",
+        "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 1"
+    ],
+    "ballot_node": "GGOs/states/California/GGOs/towns/Oakland",
+    "ballot_subdir": "GGOs/states/California/GGOs/towns/Oakland",
+    "contests": {
+        "GGOs/states/California": [
+            {
+                "US president": {
+                    "choices": [
+                        {
+                            "name": "Yoda",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Anakin Skywalker",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0000"
+                }
+            },
+            {
+                "US senate": {
+                    "choices": [
+                        {
+                            "name": "Aayla Secura",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Dok-Ondar",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Mace Windu",
+                            "party": "Pentagon Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0001"
+                }
+            },
+            {
+                "governor": {
+                    "choices": [
+                        {
+                            "name": "Jan Dodonna",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Beru Whitesun Lars",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0002"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/counties/Alameda": [
+            {
+                "County Clerk": {
+                    "choices": [
+                        "Roger Rabbit",
+                        "Huckleberry Finn",
+                        "Captain Kirk"
+                    ],
+                    "tally": "plurality",
+                    "uid": "0003"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/towns/Oakland": [
+            {
+                "state representative": {
+                    "choices": [
+                        {
+                            "name": "A A",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "B B",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0051"
+                }
+            },
+            {
+                "state senate": {
+                    "choices": [
+                        {
+                            "name": "C C",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "D D",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0052"
+                }
+            },
+            {
+                "mayor": {
+                    "choices": [
+                        {
+                            "name": "E E",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "F F",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "G G",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "H H",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "I I",
+                            "party": "Pentagon Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0053"
+                }
+            },
+            {
+                "school board": {
+                    "choices": [
+                        "asd asd",
+                        "qwe qwe",
+                        "ert ert",
+                        "rty rty",
+                        "fgh fgh",
+                        "tyu tyu"
+                    ],
+                    "max": 3,
+                    "tally": "plurality",
+                    "uid": "0054"
+                }
+            },
+            {
+                "Question 1 - school budget override": {
+                    "choices": [
+                        true,
+                        false
+                    ],
+                    "tally": "plurality",
+                    "uid": "0055"
+                }
+            },
+            {
+                "Question 2 - new firehouse land purchase": {
+                    "choices": [
+                        true,
+                        false
+                    ],
+                    "tally": "plurality",
+                    "uid": "0056",
+                    "win-by": "2/3"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/towns/Oakland/GGOs/councildistricts/Council District 1": [
+            {
+                "alderman ward 1": {
+                    "choices": [
+                        {
+                            "name": "QQ One",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "WW Two",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "ee Foo",
+                            "party": "Rectangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0057"
+                }
+            },
+            {
+                "Question 1 - paint firehydrants blue": {
+                    "choices": [
+                        true,
+                        false
+                    ],
+                    "tally": "plurality",
+                    "uid": "0058"
+                }
+            }
+        ]
+    }
+}

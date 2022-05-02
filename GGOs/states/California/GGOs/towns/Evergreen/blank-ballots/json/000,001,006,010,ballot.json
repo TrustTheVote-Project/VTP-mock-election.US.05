@@ -1,0 +1,235 @@
+{
+    "active_ggos": [
+        ".",
+        "GGOs/states/California",
+        "GGOs/states/California/GGOs/counties/Santa Clara",
+        "GGOs/states/California/GGOs/towns/Evergreen"
+    ],
+    "ballot_node": "GGOs/states/California/GGOs/towns/Evergreen",
+    "ballot_subdir": "GGOs/states/California/GGOs/towns/Evergreen",
+    "contests": {
+        "GGOs/states/California": [
+            {
+                "US president": {
+                    "choices": [
+                        {
+                            "name": "Yoda",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Anakin Skywalker",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0000"
+                }
+            },
+            {
+                "US senate": {
+                    "choices": [
+                        {
+                            "name": "Aayla Secura",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Dok-Ondar",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "Mace Windu",
+                            "party": "Pentagon Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0001"
+                }
+            },
+            {
+                "governor": {
+                    "choices": [
+                        {
+                            "name": "Jan Dodonna",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Beru Whitesun Lars",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0002"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/counties/Santa Clara": [
+            {
+                "US house": {
+                    "choices": [
+                        {
+                            "name": "Luke Skywalker",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "Padmé Amidala",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "Bail Organs",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0010"
+                }
+            }
+        ],
+        "GGOs/states/California/GGOs/towns/Evergreen": [
+            {
+                "state representative": {
+                    "choices": [
+                        {
+                            "name": "31 32",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "33 34",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0035",
+                    "write-in": true
+                }
+            },
+            {
+                "state senate": {
+                    "choices": [
+                        {
+                            "name": "35 36",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "37 38",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "plurality",
+                    "uid": "0036",
+                    "write-in": true
+                }
+            },
+            {
+                "mayor": {
+                    "choices": [
+                        {
+                            "name": "39 40",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "41 42",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "43 44",
+                            "party": "Triangle Party"
+                        },
+                        {
+                            "name": "45 56",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "47 48",
+                            "party": "Rectangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0037",
+                    "write-in": true
+                }
+            },
+            {
+                "alderman ward 1": {
+                    "choices": [
+                        {
+                            "name": "49 50",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "51 52",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "53 54",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0038"
+                }
+            },
+            {
+                "alderman ward 2": {
+                    "choices": [
+                        {
+                            "name": "55 56",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "57 58",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "59 60",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0039"
+                }
+            },
+            {
+                "alderman ward 3": {
+                    "choices": [
+                        {
+                            "name": "61 62",
+                            "party": "Rectangle Party"
+                        },
+                        {
+                            "name": "63 64",
+                            "party": "Circle Party"
+                        },
+                        {
+                            "name": "65 66",
+                            "party": "Triangle Party"
+                        }
+                    ],
+                    "tally": "rcv",
+                    "uid": "0040",
+                    "write-in": true
+                }
+            },
+            {
+                "Question 1 - school budget override": {
+                    "choices": [
+                        true,
+                        false
+                    ],
+                    "tally": "plurality",
+                    "uid": "0041"
+                }
+            },
+            {
+                "Question 2 - new firehouse land purchase": {
+                    "choices": [
+                        true,
+                        false
+                    ],
+                    "tally": "plurality",
+                    "uid": "0042",
+                    "win-by": "2/3"
+                }
+            }
+        ]
+    }
+}
