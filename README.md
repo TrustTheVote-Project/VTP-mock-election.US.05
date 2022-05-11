@@ -14,6 +14,10 @@ $ git clone git@github.com:TrustTheVote-Project/VTP-root-repo.git
 $ git clone git@github.com:TrustTheVote-Project/VTP-mock-election.US.01.git
 $ cd VTP-root-repo
 $ ln -s ../VTP-mock-election.US.01 ElectionData
+
+# To setup a mock demo election, run the following:
+$ cd bin
+$ ./setup_vtp_demp.py
 ```
 
 See the VTP root repo above for more info.
